@@ -1,0 +1,57 @@
+T1	PER 97 100	田晓霞
+T2	PER 123 125	高朗
+T3	PER 171 173	高朗
+T5	PER 303 305	高朗
+T6	PER 332 334	晓霞
+T7	PER 445 447	少平
+T8	PER 461 463	高朗
+T9	PER 496 501	高步杰老汉
+T10	PER 516 518	高朗
+T11	NORP 523 525	原西
+T12	PER 528 530	晓霞
+T13	LOC 569 571	原西
+T15	NORP 596 598	北京
+T16	PER 604 606	晓霞
+T17	PER 611 613	高朗
+T18	PER 643 645	高朗
+T19	PER 992 994	高朗
+T20	GPE 1011 1013	北京
+T21	EVENT 1097 1103	世界杯足球赛
+T22	NORP 1108 1111	比利时
+T23	NORP 1123 1127	阿 根廷
+T24	GPE 1131 1134	阿根廷
+T25	LOC 1154 1162	马 尔维纳斯群岛
+T26	PER 1167 1173	梅嫩德斯将军
+T28	GPE 1225 1228	镑湛省
+T27	NORP 1234 1235	越
+T30	PER 1286 1288	高朗
+T31	PER 1355 1357	高朗
+T32	PER 1402 1404	高朗
+T33	PER 1455 1457	高朗
+#2	AddedAnnotation T9	Added entity
+#3	AddedAnnotation T11	Added entity
+#4	AddedAnnotation T13	Added entity
+#6	AddedAnnotation T21	Added entity
+#7	AddedAnnotation T22	Added entity
+#8	AddedAnnotation T23	Added entity
+#9	AddedAnnotation T28	Added entity
+#11	AddedAnnotation T32	Added entity
+T37	PER 493 495	高老
+#15	MissingAnnotation T37	Missing entity
+T38	GPE 539 541	北京
+#16	MissingAnnotation T38	Missing entity
+T39	OCR_ERROR 571 573	;&
+#17	MissingAnnotation T39	Missing entity
+T40	GPE 902 904	中国
+#18	MissingAnnotation T40	Missing entity
+T44	NORP 1179 1181	英国
+#22	MissingAnnotation T44	Missing entity
+T45	FAC 1273 1280	“黑天鹅”酒店
+#23	MissingAnnotation T45	Missing entity
+T46	OCR_ERROR 731 732	一
+#24	MissingAnnotation T46	Missing entity
+T4	ORG 185 189	西北大学
+T14	OCR_ERROR 279 281	^硫
+#1	AnnotatorNotes T14	些撞嗑
+#5	AnnotatorNotes T39	县
+#10	AnnotatorNotes T46	——

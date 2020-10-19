@@ -1,0 +1,99 @@
+T1	PER 0 3	赵白眼
+T2	OCR_ERROR 35 36	卩
+T3	PER 34 36	阿卩
+T4	OCR_ERROR 168 169	0
+T5	PER 167 169	小0
+T6	PER 169 171	王胡
+T7	FAC 324 327	土谷祠
+T8	OCR_ERROR 336 337	^
+T9	OCR_ERROR 362 363	卩
+T10	OCR_ERROR 437 438	0
+T11	OCR_ERROR 450 451	〇
+T12	OCR_ERROR 417 418	〇
+T13	OCR_ERROR 471 472	0
+T14	PER 361 363	阿卩
+T15	PER 416 418	阿〇
+T16	OCR_ERROR 485 486	9
+T17	OCR_ERROR 513 514	0
+T18	OCR_ERROR 526 527	〇
+T19	OCR_ERROR 536 537	0
+T20	OCR_ERROR 543 544	〇
+T21	OCR_ERROR 572 581	_NEWLINE_
+T22	PER 436 438	阿0
+T23	PER 449 451	阿〇
+T24	PER 470 472	小0
+T25	PER 484 486	阿9
+T26	PER 512 514	小0
+T27	PER 501 502	赵
+T28	PER 504 505	赵
+T29	PER 525 527	阿〇
+T30	PER 535 537	小0
+T31	PER 542 544	阿〇
+T32	LOC 684 686	未庄
+T33	LOC 809 812	土谷祠
+T34	OCR_ERROR 929 930	0
+T35	PER 928 930	阿0
+T36	OCR_ERROR 978 979	一
+T37	OCR_ERROR 1020 1021	一
+T38	PER 1048 1049	赵
+T39	NORP 1055 1057	未庄
+T40	OCR_ERROR 1069 1070	卩
+T41	OCR_ERROR 1261 1262	0
+T42	OCR_ERROR 1353 1354	0
+T43	PER 1068 1070	阿卩
+T44	OCR_ERROR 1087 1088	0
+T45	OCR_ERROR 1218 1219	0
+T46	PER 1086 1088	阿0
+T47	LOC 1135 1137	未庄
+T48	LOC 1143 1147	土谷 祠
+T49	OCR_ERROR 1160 1161	0
+T50	PER 1159 1161	阿0
+T51	PER 1217 1219	阿0
+T52	PER 1260 1262	阿0
+T53	OCR_ERROR 1454 1455	0
+T54	OCR_ERROR 1452 1453	阿
+T55	PER 1352 1354	阿0
+T56	LOC 1372 1376	土谷 祠
+T57	OCR_ERROR 1444 1445	仟
+T58	PER 1453 1455	阿0
+#1	AddedAnnotation T27	Added entity
+#2	AddedAnnotation T28	Added entity
+#3	AddedAnnotation T36	Added entity
+#4	AddedAnnotation T38	Added entity
+#5	AddedAnnotation T54	Added entity
+#6	AddedAnnotation T57	Added entity
+T59	OCR_ERROR 709 710	0
+#7	MissingAnnotation T59	Missing entity
+T60	PER 708 710	阿0
+#8	MissingAnnotation T60	Missing entity
+T63	PER 698 701	羲 皇
+#11	MissingAnnotation T63	Missing entity
+T64	OCR_ERROR 1014 1015	一
+#12	MissingAnnotation T64	Missing entity
+#9	AnnotatorNotes T2	Q
+#10	AnnotatorNotes T4	D
+#13	AnnotatorNotes T8	~
+#14	AnnotatorNotes T9	Q
+#15	AnnotatorNotes T12	Q
+#16	AnnotatorNotes T18	Q
+#17	AnnotatorNotes T20	Q
+#18	AnnotatorNotes T17	D
+#19	AnnotatorNotes T19	D
+#20	AnnotatorNotes T21	DEL
+#21	AnnotatorNotes T59	Q
+#22	AnnotatorNotes T13	D
+#23	AnnotatorNotes T11	Q
+#24	AnnotatorNotes T10	Q
+#25	AnnotatorNotes T34	Q
+#26	AnnotatorNotes T64	——
+#27	AnnotatorNotes T37	——
+#28	AnnotatorNotes T40	Q
+#29	AnnotatorNotes T36	——
+#30	AnnotatorNotes T44	Q
+#31	AnnotatorNotes T49	Q
+#32	AnnotatorNotes T45	Q
+#33	AnnotatorNotes T41	Q
+#34	AnnotatorNotes T42	Q
+#35	AnnotatorNotes T53	Q
+#36	AnnotatorNotes T54	DEL
+#37	AnnotatorNotes T57	什

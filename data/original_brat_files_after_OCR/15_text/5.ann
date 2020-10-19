@@ -1,0 +1,23 @@
+T1	PER 21 23	连殳
+T2	PER 124 128	十三大人
+T3	PER 156 160	十三大人
+T4	PER 204 207	魏大人
+T5	PER 240 244	十三大人
+T6	PER 762 765	三 良
+T7	PER 808 810	连殳
+T8	OCR_ERROR 1128 1134	@000^0
+T9	OCR_ERROR 1178 1179	^
+T10	PER 1179 1181	涓生
+T11	PER 1207 1209	子君
+T12	PER 1252 1254	子君
+T13	PER 1369 1371	子君
+T14	FAC 1412 1416	吉兆胡同
+T15	PER 1468 1470	子君
+#1	AddedAnnotation T2	Added entity
+#2	AddedAnnotation T3	Added entity
+#3	AddedAnnotation T5	Added entity
+#4	AddedAnnotation T14	Added entity
+T16	PER 674 677	连 殳
+#5	MissingAnnotation T16	Missing entity
+#6	AnnotatorNotes T8	朝花夕拾
+#7	AnnotatorNotes T9	——

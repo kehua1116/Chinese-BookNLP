@@ -1,0 +1,25 @@
+T1	PER 200 203	祥林嫂
+T3	PER 276 279	祥林嫂
+T4	GPE 667 670	贺家燠
+T5	PER 380 383	祥林嫂
+T6	GPE 405 408	贺家塽
+T7	OCR_ERROR 407 408	塽
+T8	OCR_ERROR 669 670	燠
+T10	PER 755 758	祥林嫂
+T11	PER 776 779	祥林嫂
+T12	PER 1168 1171	祥林嫂
+T13	PER 1250 1252	阿毛
+T14	PER 1304 1306	阿毛
+T15	PER 1329 1331	阿毛
+T16	OCR_ERROR 1379 1380	澳
+T17	OCR_ERROR 1202 1203	燠
+#2	AddedAnnotation T4	Added entity
+#3	AddedAnnotation T6	Added entity
+#4	AddedAnnotation T7	Added entity
+#5	AddedAnnotation T8	Added entity
+#7	AddedAnnotation T16	Added entity
+#8	AddedAnnotation T17	Added entity
+#1	AnnotatorNotes T7	墺
+#6	AnnotatorNotes T8	墺
+#9	AnnotatorNotes T17	墺
+#10	AnnotatorNotes T16	墺

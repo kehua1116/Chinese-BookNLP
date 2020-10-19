@@ -1,0 +1,37 @@
+T1	FAC 57 60	徐州站
+T2	OCR_ERROR 266 269	步 ”
+T4	PER 303 306	尔 娟
+T5	PER 458 460	尔娟
+T6	PER 468 470	尔娟
+T7	GPE 538 540	南京
+T8	PER 764 766	尔娟
+T9	PER 844 846	培敏
+T10	GPE 911 913	南京
+T11	PER 1088 1090	尔娟
+T12	FAC 1120 1124	锦州车站
+T13	GPE 1160 1162	北京
+T14	GPE 1173 1175	北京
+T15	GPE 1185 1187	北京
+T16	GPE 1188 1190	南京
+T17	GPE 1198 1200	南京
+T18	GPE 1201 1203	北京
+T19	LOC 1242 1245	雨花台
+T20	GPE 1257 1259	南京
+T21	GPE 1261 1263	沈阳
+T22	PER 1289 1291	尔娟
+T23	GPE 1353 1355	沈阳
+T24	ORG 1373 1376	大刀队
+T25	GPE 1422 1424	南京
+T26	PER 1458 1460	尔娟
+T27	GPE 1471 1473	南京
+T28	GPE 1476 1478	沈阳
+#1	AddedAnnotation T2	Added entity
+#3	AddedAnnotation T19	Added entity
+#4	AddedAnnotation T24	Added entity
+T29	OCR_ERROR 272 276	|^ 〇
+#5	MissingAnnotation T29	Missing entity
+T30	PER 340 342	尔娟
+#6	MissingAnnotation T30	Missing entity
+T31	PER 1231 1234	毛主席
+#7	MissingAnnotation T31	Missing entity
+#2	AnnotatorNotes T2	来。

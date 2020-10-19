@@ -1,0 +1,56 @@
+T1	PER 122 125	叶哲泰
+T2	EVENT 126 128	文革
+T3	PER 349 352	叶哲泰
+T4	ORG 399 404	布尔什维克
+T5	PER 427 430	叶哲泰
+T6	PER 501 505	叶哲 泰
+T7	PER 506 509	叶哲泰
+T8	OCR_ERROR 587 588	|
+T9	PER 593 596	叶哲泰
+T10	OCR_ERROR 621 622	I
+T11	PER 741 744	叶哲泰
+T12	PER 771 775	爱因斯坦
+T13	NORP 795 796	美
+T14	ART 698 701	相对论
+T15	ART 710 713	相对论
+T16	PER 839 842	叶哲泰
+T17	PER 1008 1011	叶哲泰
+T18	PER 1023 1025	绍琳
+T19	PER 1075 1077	绍琳
+T20	PER 1104 1107	叶哲泰
+T21	PER 1110 1112	绍琳
+T22	ART 1281 1284	相对论
+T23	ART 1295 1301	广义相 对论
+T24	ART 1312 1318	静态宇宙模型
+T25	ART 1334 1337	辩证法
+T26	LOC 1342 1344	宇宙
+T27	ART 1354 1360	反动唯心主义
+T28	PER 1376 1379	叶哲泰
+T29	PER 1385 1386	琳
+T30	OCR_ERROR 1438 1439	|
+T31	OCR_ERROR 1469 1470	^
+T32	PER 1493 1495	琳琳
+#1	AddedAnnotation T2	Added entity
+#2	AddedAnnotation T8	Added entity
+#3	AddedAnnotation T10	Added entity
+#4	AddedAnnotation T13	Added entity
+#5	AddedAnnotation T14	Added entity
+#6	AddedAnnotation T15	Added entity
+#7	AddedAnnotation T19	Added entity
+#8	AddedAnnotation T22	Added entity
+#9	AddedAnnotation T23	Added entity
+#10	AddedAnnotation T24	Added entity
+#11	AddedAnnotation T25	Added entity
+#12	AddedAnnotation T26	Added entity
+#13	AddedAnnotation T27	Added entity
+#14	AddedAnnotation T29	Added entity
+#15	AddedAnnotation T30	Added entity
+#16	AddedAnnotation T31	Added entity
+T34	PER 955 958	叶哲泰
+#18	MissingAnnotation T34	Missing entity
+T35	PER 1277 1281	爱因斯坦
+#19	MissingAnnotation T35	Missing entity
+#17	AnnotatorNotes T8	DEL
+#20	AnnotatorNotes T10	DEL
+#21	AnnotatorNotes T30	DEL
+#22	AnnotatorNotes T31	DEL

@@ -1,0 +1,38 @@
+T1	GPE 7 9	上海
+T2	PER 70 72	兰兰
+T3	PER 166 168	兰兰
+T4	FAC 275 280	北 京西路
+T5	FAC 280 283	怀恩堂
+T6	PER 322 324	兰兰
+T7	FAC 369 372	南阳路
+T8	FAC 373 378	陕西路菜场
+T9	FAC 379 384	泰康食品店
+T10	FAC 389 393	南京西路
+T11	FAC 395 398	江宁路
+T12	FAC 431 433	美琪
+T13	PER 473 475	兰兰
+T14	PER 493 495	兰兰
+T15	PER 505 507	兰兰
+T16	PER 530 532	兰兰
+T17	PER 556 558	兰兰
+T18	FAC 591 594	南阳路
+T19	PER 695 697	小毛
+T20	PER 722 724	兰兰
+T21	OCR_ERROR 740 749	_NEWLINE_
+T22	PER 758 760	小毛
+T23	PER 807 809	小毛
+T24	PER 838 840	兰兰
+T25	OCR_ERROR 847 848	6
+T26	NORP 1345 1348	上 海
+T27	PER 1381 1383	小毛
+T28	LOC 1411 1414	城隍庙
+T29	PER 1426 1428	兰兰
+T30	NORP 1468 1471	上 海
+#1	AddedAnnotation T8	Added entity
+#2	AddedAnnotation T28	Added entity
+T31	NORP 100 102	上海
+#3	MissingAnnotation T31	Missing entity
+T33	NORP 1238 1240	上海
+#5	MissingAnnotation T33	Missing entity
+#4	AnnotatorNotes T21	DEL
+#6	AnnotatorNotes T25	。

@@ -1,0 +1,64 @@
+T1	PER 0 3	秦福小
+T2	PER 5 7	杨杰
+T4	PER 40 44	弘一法师
+T5	PER 82 84	福小
+T6	PER 101 103	杨杰
+T7	PER 110 113	初平阳
+T8	PER 138 141	初平阳
+T9	PER 193 195	杨杰
+T10	PER 198 200	福小
+T12	PER 367 370	初平阳
+T15	PER 618 620	杨杰
+T17	PER 653 656	初平阳
+T18	OCR_ERROR 663 664	縣
+T20	PER 683 687	初平 阳
+T19	OCR_ERROR 668 674	針JLft大
+T21	PER 736 738	杨杰
+T22	PER 772 774	福小
+T25	PER 811 814	初平阳
+T27	ORG 869 875	杨杰修缮基金
+T28	PER 901 904	齐苏红
+T29	FAC 951 956	比 萨斜塔
+T30	PER 1138 1141	初平阳
+T31	PER 1150 1152	福小
+T32	PER 1263 1265	杨杰
+T33	ORG 1305 1309	杨杰基金
+T34	PER 1332 1335	初平阳
+T35	PER 1346 1348	杨泽
+T37	PER 1389 1391	福小
+T39	PER 1400 1402	天赐
+T40	PER 1410 1412	天赐
+T41	PER 1444 1446	长安
+T42	PER 1467 1469	杨泽
+T43	PER 1471 1473	杨杰
+T44	PER 1480 1482	福小
+T45	PER 1523 1526	初平阳
+T47	PER 1563 1565	杨杰
+T48	PER 1584 1586	福小
+#1	AddedAnnotation T4	Added entity
+#2	AddedAnnotation T5	Added entity
+#6	AddedAnnotation T18	Added entity
+#7	AddedAnnotation T19	Added entity
+#11	AddedAnnotation T27	Added entity
+#12	AddedAnnotation T29	Added entity
+#13	AddedAnnotation T33	Added entity
+#15	AddedAnnotation T39	Added entity
+#16	AddedAnnotation T40	Added entity
+#17	AddedAnnotation T41	Added entity
+T51	PER 143 145	福小
+#20	MissingAnnotation T51	Missing entity
+T52	GPE 277 280	醴水镇
+#21	MissingAnnotation T52	Missing entity
+T53	GPE 494 497	淮海市
+#22	MissingAnnotation T53	Missing entity
+T54	GPE 514 516	淮海
+#23	MissingAnnotation T54	Missing entity
+T57	OCR_ERROR 1116 1118	，，
+#26	MissingAnnotation T57	Missing entity
+T3	PER 21 24	初医生
+T16	PER 627 630	初医生
+#3	AnnotatorNotes T18	说来
+#4	AnnotatorNotes T19	是个最大
+#5	AnnotatorNotes T57	”
+T11	ORG 1539 1549	花街斜教堂 修缮基金
+T13	PER 1392 1395	秦奶奶

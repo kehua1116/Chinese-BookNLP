@@ -1,0 +1,23 @@
+T1	OCR_ERROR 19 20	一
+T2	OCR_ERROR 30 31	^
+T3	PER 228 230	闰土
+T4	PER 268 270	闰土
+T5	PER 311 313	闰土
+T6	PER 571 573	宏儿
+T7	PER 906 910	豆腐西施
+T8	NORP 1035 1037	法国
+T9	PER 1042 1045	拿破仑
+T10	NORP 1046 1048	美国
+T11	PER 1052 1055	华盛顿
+T12	PER 1117 1120	迅哥儿
+T13	OCR_ERROR 1460 1469	_NEWLINE_
+T14	PER 1493 1495	闰土
+#1	AddedAnnotation T1	Added entity
+#2	AddedAnnotation T7	Added entity
+T15	PER 849 852	杨二嫂
+#3	MissingAnnotation T15	Missing entity
+T16	PER 897 900	杨二嫂
+#4	MissingAnnotation T16	Missing entity
+#5	AnnotatorNotes T1	——
+#7	AnnotatorNotes T2	——
+#6	AnnotatorNotes T13	DEL

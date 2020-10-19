@@ -1,0 +1,59 @@
+T1	PER 11 14	沙复明
+T2	PER 46 49	沙复明
+T3	PER 87 90	王大夫
+T4	PER 119 122	沙复明
+T5	PER 171 174	沙复明
+T6	PER 378 381	沙复明
+T7	PER 399 402	王大夫
+T8	PER 419 422	王大夫
+T9	PER 458 461	王大夫
+T10	PER 469 472	王大夫
+T11	PER 525 528	王大夫
+T12	PER 562 565	沙复明
+T13	PER 574 577	沙复明
+T14	PER 606 609	沙复明
+T15	PER 655 658	沙复明
+T16	PER 728 731	沙复明
+T17	PER 786 789	沙复明
+T18	PER 803 806	沙复明
+T20	GPE 682 684	上海
+T19	PER 815 818	沙复明
+T21	LANGUAGE 751 753	英语
+T22	LANGUAGE 754 756	日语
+T23	LANGUAGE 844 846	英语
+T24	LANGUAGE 847 849	日语
+T25	PER 938 941	沙复明
+T26	PER 983 986	沙复明
+T27	PER 1095 1098	沙复明
+T28	OCR_ERROR 1102 1111	_NEWLINE_
+T29	PER 1154 1157	沙复明
+T30	PER 1169 1173	沙复 明
+T31	OCR_ERROR 1206 1211	11^！！
+T32	PER 1260 1263	沙复明
+T33	NORP 1297 1299	中国
+T34	PER 1307 1310	沙先生
+T35	OCR_ERROR 1321 1323	叩心
+T37	PER 1329 1332	沙复明
+T38	PER 1377 1381	沙复 明
+T39	PER 1419 1422	沙复明
+T40	PER 1435 1438	沙复明
+T41	FAC 1482 1485	民凤路
+T42	FAC 1486 1489	四象路
+T43	OCR_ERROR 1519 1524	〇〇〇时。
+#1	AddedAnnotation T10	Added entity
+#2	AddedAnnotation T27	Added entity
+#3	AddedAnnotation T31	Added entity
+#4	AddedAnnotation T34	Added entity
+#5	AddedAnnotation T35	Added entity
+#7	AddedAnnotation T43	Added entity
+T44	LOC 238 240	宇宙
+#8	MissingAnnotation T44	Missing entity
+T45	LANGUAGE 639 641	英语
+#9	MissingAnnotation T45	Missing entity
+T46	LANGUAGE 642 644	日语
+#10	MissingAnnotation T46	Missing entity
+T36	OCR_ERROR 695 699	----
+#6	AnnotatorNotes T36	——
+#11	AnnotatorNotes T31	am a hot man
+#12	AnnotatorNotes T35	open
+#13	AnnotatorNotes T43	Doctor Sha

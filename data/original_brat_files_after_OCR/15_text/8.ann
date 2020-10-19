@@ -1,0 +1,28 @@
+T1	OCR_ERROR 632 641	_NEWLINE_
+T2	OCR_ERROR 689 690	0
+T3	OCR_ERROR 854 856	一一
+T4	ART 917 918	坟
+T6	ORG 999 1001	国联
+T7	ORG 1019 1021	国联
+T8	OCR_ERROR 1038 1040	一^
+T9	NORP 1058 1060	中国
+T10	ORG 1113 1115	国联
+T11	NORP 1144 1147	中 国
+T12	ORG 1161 1163	国联
+T13	ORG 1249 1251	国联
+T14	NORP 1333 1335	中国
+T15	NORP 1409 1411	中国
+T16	GPE 1497 1499	中国
+#1	AddedAnnotation T3	Added entity
+#2	AddedAnnotation T4	Added entity
+#4	AddedAnnotation T6	Added entity
+#5	AddedAnnotation T7	Added entity
+#6	AddedAnnotation T8	Added entity
+#7	AddedAnnotation T10	Added entity
+#8	AddedAnnotation T12	Added entity
+#9	AddedAnnotation T13	Added entity
+#10	AddedAnnotation T16	Added entity
+T17	NORP 938 940	中国
+#11	MissingAnnotation T17	Missing entity
+#3	AnnotatorNotes T2	DEL
+#12	AnnotatorNotes T1	DEL

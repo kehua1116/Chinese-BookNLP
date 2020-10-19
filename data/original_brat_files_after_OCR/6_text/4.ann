@@ -1,0 +1,41 @@
+T1	PER 131 133	荷西
+T2	PER 134 137	伊底斯
+T3	PER 146 149	伊底斯
+T4	PER 177 179	黛奥
+T5	PER 226 229	伊底斯
+T6	LOC 274 276	北非
+T7	LOC 276 281	加纳利群岛
+T8	GPE 285 288	新内加
+T9	GPE 291 293	达卡
+T10	LOC 296 298	西非
+T11	GPE 298 303	尼 日利亚
+T12	GPE 306 309	拉哥斯
+T13	OCR_ERROR 309 312	⑴哗沉
+T14	PER 329 331	荷西
+T15	GPE 556 559	马德里
+T16	OCR_ERROR 699 700	〇
+T17	PER 718 720	荷西
+T18	LOC 895 897	西非
+T19	LOC 900 902	赤道
+T20	PER 928 930	荷西
+T21	OCR_ERROR 953 959	10丫01八
+T22	PER 1018 1020	荷西
+T23	OCR_ERROR 1097 1098	一
+T24	PER 1098 1103	克里司多巴
+T25	PER 1153 1155	荷西
+T26	PER 1174 1176	路易
+T27	GPE 1324 1327	马德里
+T28	PER 1337 1339	荷西
+T29	LOC 1383 1386	加纳利
+T30	LOC 1425 1429	加纳利岛
+T31	PER 1636 1638	荷西
+#1	AddedAnnotation T7	Added entity
+#2	AddedAnnotation T13	Added entity
+#3	AddedAnnotation T16	Added entity
+#4	AddedAnnotation T21	Added entity
+#5	AddedAnnotation T29	Added entity
+#6	AddedAnnotation T30	Added entity
+#7	AnnotatorNotes T13	(Lagos)
+#8	AnnotatorNotes T21	TOYOTA
+#9	AnnotatorNotes T16	0
+#10	AnnotatorNotes T23	——

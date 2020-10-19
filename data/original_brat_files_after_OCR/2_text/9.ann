@@ -1,0 +1,31 @@
+T1	PER 14 19	爱罗先珂君
+T2	PER 41 48	爱罗先珂先 生
+T3	PER 87 92	爱罗先珂君
+T4	PER 158 162	仲密夫人
+T5	PER 186 188	仲密
+T6	PER 285 290	爱罗先珂君
+T7	GPE 291 293	北京
+T8	ART 301 307	小鸡的悲 剧
+T9	PER 345 349	仲密夫人
+T10	PER 353 359	爱罗 先珂君
+T11	PER 485 490	爱罗先珂君
+T12	PER 527 532	仲密夫 人
+T14	PER 711 715	仲密夫人
+T15	PER 762 767	爱罗先珂君
+T16	LOC 790 792	赤塔
+T17	OCR_ERROR 795 799	善！吶喊
+T18	PER 869 871	仲密
+T19	PER 937 942	爱罗先珂君
+T20	ART 1009 1011	社戏
+T21	GPE 1097 1099	北京
+T23	GPE 1143 1145	北京
+#2	AddedAnnotation T16	Added entity
+#3	AddedAnnotation T17	Added entity
+#4	AddedAnnotation T20	Added entity
+T24	NORP 777 780	俄罗斯
+#6	MissingAnnotation T24	Missing entity
+T26	NORP 1032 1034	中国
+#8	MissingAnnotation T26	Missing entity
+T27	NORP 1114 1116	北京
+#9	MissingAnnotation T27	Missing entity
+#1	AnnotatorNotes T17	DEL

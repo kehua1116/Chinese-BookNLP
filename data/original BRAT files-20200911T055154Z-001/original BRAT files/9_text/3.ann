@@ -1,0 +1,39 @@
+T1	GPE 10 12	辽阳
+T3	LOC 119 121	鞍山
+T4	LOC 148 150	鞍山
+T11	PER 368 371	宋任穷
+T12	PER 392 395	宋任穷
+T13	PER 403 406	方知宋
+T14	PER 424 427	宋任穷
+T15	LOC 409 411	东北
+T16	LOC 443 445	东北
+T17	LOC 598 600	鞍山
+T18	GPE 711 714	鞍山市
+T19	PER 764 766	高琦
+T20	PER 792 794	小芳
+T22	GPE 833 835	辽宁
+T25	GPE 973 976	大 连
+T26	GPE 1023 1025	大连
+T27	FAC 1033 1037	东山宾馆
+T29	FAC 1099 1103	东山宾馆
+T30	EVENT 1343 1345	文革
+T31	NORP 1349 1351	鞍山
+T32	PER 1397 1399	高琦
+T33	PER 1496 1499	欧阳海
+T34	PER 1502 1507	欧阳安 妮
+#8	AddedAnnotation T18	Added entity
+#12	AddedAnnotation T25	Added entity
+#13	AddedAnnotation T26	Added entity
+#15	AddedAnnotation T30	Added entity
+#16	AddedAnnotation T31	Added entity
+T35	ORG 19 21	中共
+#17	MissingAnnotation T35	Missing entity
+T36	GPE 21 25	辽阳 市
+#18	MissingAnnotation T36	Missing entity
+T37	FAC 95 99	市委大院
+#19	MissingAnnotation T37	Missing entity
+T39	OCR_ERROR 744 745	一
+#21	MissingAnnotation T39	Missing entity
+T40	NORP 821 823	辽阳
+#22	MissingAnnotation T40	Missing entity
+#1	AnnotatorNotes T39	——

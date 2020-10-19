@@ -1,0 +1,8 @@
+T1	GPE 541 543	德国
+T2	LOC 727 732	加纳利群岛
+T3	PER 1064 1066	荷西
+T4	OCR_ERROR 1527 1528	一
+#1	AddedAnnotation T2	Added entity
+T6	GPE 739 742	马德里
+#3	MissingAnnotation T6	Missing entity
+#2	AnnotatorNotes T4	——

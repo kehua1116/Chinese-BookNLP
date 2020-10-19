@@ -1,0 +1,60 @@
+T1	PER 0 2	魏成
+T3	PER 12 14	汪淼
+T4	PER 82 84	魏成
+T5	PER 86 88	汪淼
+T8	PER 248 250	魏成
+T9	PER 306 308	魏成
+T10	PER 342 344	汪淼
+T11	PER 414 416	汪淼
+T12	PER 459 461	牛顿
+T13	PER 462 467	冯.诺伊曼
+T14	PER 468 471	秦始皇
+T15	PER 540 542	汪淼
+T18	ART 455 458	.三体
+T19	PER 638 640	汪淼
+T20	NORP 680 682	欧洲
+T21	LOC 689 691	欧洲
+T22	PER 940 942	汪淼
+T23	PER 1003 1010	伊萨克-牛 顿
+T24	OCR_ERROR 1010 1011	0
+T25	PER 1024 1028	莱布尼茨
+T26	PER 1032 1034	汪淼
+T27	ART 1067 1072	力学三定律
+T28	OCR_ERROR 1159 1160	0
+T29	PER 1293 1295	汪淼
+T30	PER 1306 1311	冯^诺伊曼
+T32	PER 1346 1348	牛顿
+T33	PER 1354 1356	汪淼
+T34	OCR_ERROR 1305 1311	“冯^诺伊曼
+T36	OCR_ERROR 1363 1366	维纳@
+T37	GPE 1375 1381	马 达加斯加
+T38	PER 1387 1389	维纳
+T39	PER 1425 1427	汪淼
+T40	PER 1431 1436	冯.诺伊曼
+T41	PER 1439 1444	冯，诺伊曼
+T42	OCR_ERROR 1439 1444	冯，诺伊曼
+T43	PER 1445 1447	牛顿
+#5	AddedAnnotation T18	Added entity
+#6	AddedAnnotation T19	Added entity
+#7	AddedAnnotation T20	Added entity
+#8	AddedAnnotation T21	Added entity
+#9	AddedAnnotation T24	Added entity
+#10	AddedAnnotation T27	Added entity
+#11	AddedAnnotation T28	Added entity
+#13	AddedAnnotation T34	Added entity
+#15	AddedAnnotation T36	Added entity
+#16	AddedAnnotation T37	Added entity
+#17	AddedAnnotation T38	Added entity
+#18	AddedAnnotation T42	Added entity
+T47	PER 1363 1365	维纳
+#22	MissingAnnotation T47	Missing entity
+T50	PER 990 992	汪淼
+#25	MissingAnnotation T50	Missing entity
+T7	ART 352 354	三体
+T2	ART 479 481	三体
+#1	AnnotatorNotes T24	。
+#2	AnnotatorNotes T28	。
+#3	AnnotatorNotes T34	“冯·诺依曼。”
+#4	AnnotatorNotes T36	维纳
+#12	AnnotatorNotes T42	冯·诺依曼
+T6	PER 96 99	汪教授

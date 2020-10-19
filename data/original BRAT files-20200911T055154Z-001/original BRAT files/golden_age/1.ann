@@ -1,0 +1,27 @@
+T1	PER 88 91	刘大爹
+T2	PER 96 99	陈清扬
+T3	LOC 121 123	清平
+T5	PER 226 229	陈清扬
+T6	LOC 258 260	清平
+T7	PER 339 342	陈清扬
+T9	OCR_ERROR 674 676	彡艮
+T10	PER 750 753	陈清扬
+T11	PER 802 805	陈清扬
+T12	LOC 806 809	章风山
+T13	PER 1007 1010	陈清扬
+T15	PER 1155 1158	陈清扬
+T16	PER 1201 1204	陈清扬
+T17	PER 1230 1233	陈清扬
+T18	PER 1363 1366	陈清扬
+#1	AddedAnnotation T3	Added entity
+#3	AddedAnnotation T6	Added entity
+T19	NORP 117 119	老傣
+#5	MissingAnnotation T19	Missing entity
+T24	GPE 1427 1429	巴西
+#10	MissingAnnotation T24	Missing entity
+T25	PER 1445 1448	陈清扬
+#11	MissingAnnotation T25	Missing entity
+T4	LOC 144 146	清平
+T23	LOC 146 149	南 边
+T8	LOC 355 359	清 平集
+T14	PER 1058 1060	老郭

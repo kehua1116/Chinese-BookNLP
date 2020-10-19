@@ -1,0 +1,36 @@
+T2	PER 422 424	晓霞
+T3	OCR_ERROR 440 441	‘
+T4	OCR_ERROR 455 456	，
+T5	PER 438 445	尤里‘ 纳吉宾
+T6	PER 454 458	欧，亨利
+T7	PER 825 828	孙少平
+T8	LOC 846 849	古塔山
+T9	FAC 859 866	黄原长途汽车站
+T12	FAC 946 951	大牙湾煤矿
+T13	PER 1053 1055	金波
+T14	PER 1061 1064	田晓霞
+T15	PER 1100 1103	金 波
+T17	PER 1136 1139	孙少安
+T19	ART 1242 1245	信天游
+T20	PER 1317 1320	田福高
+T21	OCR_ERROR 1368 1369	^
+T22	GPE 1385 1388	双水村
+T23	PER 1509 1511	少安
+T24	PER 1547 1549	少安
+#2	AddedAnnotation T8	Added entity
+#7	AddedAnnotation T22	Added entity
+T25	FAC 2 6	九级古塔
+#8	MissingAnnotation T25	Missing entity
+T26	GPE 32 35	黄原城
+#9	MissingAnnotation T26	Missing entity
+T28	GPE 874 876	铜城
+#11	MissingAnnotation T28	Missing entity
+T29	GPE 889 892	双水村
+#12	MissingAnnotation T29	Missing entity
+T30	GPE 1109 1111	铜城
+#13	MissingAnnotation T30	Missing entity
+T31	GPE 1202 1205	双水村
+#14	MissingAnnotation T31	Missing entity
+#1	AnnotatorNotes T3	·
+#3	AnnotatorNotes T4	·
+#4	AnnotatorNotes T21	——

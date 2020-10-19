@@ -1,0 +1,64 @@
+T1	PER 0 2	宗豫
+T2	FAC 29 31	国泰
+T3	PER 50 52	家茵
+T4	PER 70 72	宗豫
+T5	FAC 95 97	国泰
+T6	PER 115 117	家茵
+T7	PER 140 142	宗豫
+T8	PER 261 265	虞老先生
+T9	PER 278 280	家茵
+T10	PER 283 285	家茵
+T11	PER 375 378	夏先生
+T12	PER 409 410;411 414	虞 老先生
+T13	PER 480 482	家茵
+T14	PER 501 506	虞 老先生
+T15	PER 517 519	家茵
+T16	PER 539 543	虞老先生
+T17	PER 584 586	家茵
+T18	PER 600 604	虞老先生
+T19	PER 607 610	夏先生
+T20	PER 626 628	家茵
+T21	PER 640 644	虞老先生
+T22	OCR_ERROR 666 668	一一
+T23	PER 669 671	家茵
+T24	PER 692 696	虞老先生
+T25	PER 729 732	夏先生
+T26	PER 758 760	家茵
+T27	PER 767 769	家茵
+T28	PER 784 787	夏先生
+T30	OCR_ERROR 813 815	一一
+T31	OCR_ERROR 809 810	一
+T32	OCR_ERROR 818 820	一一
+T33	PER 910 913	夏先生
+T34	PER 940 944	虞老先生
+T35	PER 967 969	家茵
+T36	PER 989 993	虞老先生
+T37	PER 1085 1088	孙太太
+T39	PER 1143 1147	虞老先生
+T40	PER 1162 1167	虞老 先生
+T41	OCR_ERROR 1201 1202	一
+T42	OCR_ERROR 1111 1113	一一
+T43	PER 1235 1238	孙太太
+T44	PER 1260 1264	虞老先生
+T45	PER 1274 1277	孙太太
+T46	PER 1330 1333	夏先生
+T47	GPE 1371 1373	上海
+T48	PER 1398 1401	孙太太
+#1	AddedAnnotation T2	Added entity
+#2	AddedAnnotation T5	Added entity
+#4	AddedAnnotation T31	Added entity
+#6	AddedAnnotation T41	Added entity
+T49	PER 385 387	家茵
+#7	MissingAnnotation T49	Missing entity
+T52	OCR_ERROR 438 439	一
+#10	MissingAnnotation T52	Missing entity
+T53	NORP 1191 1193	日本
+#11	MissingAnnotation T53	Missing entity
+T29	FAC 797 802	国泰电影院
+#3	AnnotatorNotes T52	——
+#5	AnnotatorNotes T22	——
+#8	AnnotatorNotes T31	——
+#9	AnnotatorNotes T30	——
+#12	AnnotatorNotes T32	——
+#13	AnnotatorNotes T42	——
+#14	AnnotatorNotes T41	——

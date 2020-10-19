@@ -1,0 +1,35 @@
+T1	OCR_ERROR 116 125	_NEWLINE_
+T2	NORP 57 59	北京
+T3	NORP 134 136	白俄
+T4	GPE 143 145	中国
+T5	PER 590 595	哥儿达先生
+T6	PER 820 822	阿小
+T7	PER 823 825	秀琴
+T8	OCR_ERROR 840 849	_NEWLINE_
+T9	PER 863 865	阿小
+T10	PER 915 918	李小姐
+T11	GPE 1052 1054	上海
+T12	NORP 1060 1062	中国
+T13	GPE 1082 1084	上海
+T14	PER 1229 1231	秀琴
+T15	PER 1237 1239	阿小
+T16	PER 1258 1260	阿小
+T17	PER 1266 1268	秀琴
+T18	GPE 1301 1303	上海
+T19	PER 1306 1308	秀琴
+T20	PER 1362 1364	阿小
+T21	GPE 1396 1398	上海
+T22	PER 1404 1406	秀琴
+T23	GPE 1500 1502	上海
+#1	AddedAnnotation T5	Added entity
+T24	ART 94 96	京戏
+#2	MissingAnnotation T24	Missing entity
+T26	OCR_ERROR 892 894	一一
+#4	MissingAnnotation T26	Missing entity
+T27	OCR_ERROR 1105 1107	一一
+#5	MissingAnnotation T27	Missing entity
+T28	OCR_ERROR 1154 1156	一一
+#6	MissingAnnotation T28	Missing entity
+#3	AnnotatorNotes T26	——
+#7	AnnotatorNotes T27	——
+#8	AnnotatorNotes T28	——

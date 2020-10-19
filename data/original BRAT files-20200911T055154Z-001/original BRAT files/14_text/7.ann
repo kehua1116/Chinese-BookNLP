@@ -1,0 +1,44 @@
+T1	PER 10 13	黄依依
+T2	PER 40 42	小雨
+T3	OCR_ERROR 52 53	千
+T4	OCR_ERROR 88 97	_NEWLINE_
+T5	PER 108 110	小雨
+T6	PER 158 161	黄依依
+T7	PER 169 172	铁部长
+T8	GPE 181 183	北京
+T9	PER 190 193	铁部长
+T10	PER 227 230	铁部长
+T11	PER 280 282	小雨
+T12	PER 315 317	小雨
+T13	PER 366 368	小雨
+T15	PER 428 430	小雨
+T16	PER 479 482	铁部长
+T17	PER 491 493	小雨
+T18	PER 589 591	小雨
+T19	PER 597 600	黄依依
+T20	PER 724 727	黄依依
+T21	PER 728 730	小雨
+T22	PER 947 949	小雨
+T23	PER 951 954	黄依依
+T24	PER 1055 1058	安德罗
+T25	PER 1064 1067	安德罗
+T26	PER 1099 1101	小雨
+T27	PER 1102 1106	黄 依依
+T28	PER 1159 1162	陈二湖
+T29	PER 1169 1171	老陈
+T30	PER 1243 1245	老陈
+#1	AddedAnnotation T3	Added entity
+#2	AddedAnnotation T8	Added entity
+T31	ORG 388 391	克格勃
+#4	MissingAnnotation T31	Missing entity
+T32	ORG 570 573	701
+#5	MissingAnnotation T32	Missing entity
+T33	OCR_ERROR 890 891	^
+#6	MissingAnnotation T33	Missing entity
+T34	ORG 1225 1228	701
+#7	MissingAnnotation T34	Missing entity
+T35	ORG 1440 1443	701
+#8	MissingAnnotation T35	Missing entity
+#3	AnnotatorNotes T33	DEL
+#9	AnnotatorNotes T4	DEL
+#10	AnnotatorNotes T3	干

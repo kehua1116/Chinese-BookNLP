@@ -1,0 +1,32 @@
+T1	PER 0 3	潘汝良
+T2	PER 230 232	汝良
+T3	NORP 247 249	中国
+T4	NORP 294 296	中国
+T5	PER 431 433	汝良
+T6	OCR_ERROR 488 497	_NEWLINE_
+T7	PER 799 801	汝良
+T8	NORP 864 866	绍兴
+T9	PER 876 878	汝良
+T10	PER 915 917	汝良
+T11	PER 989 991	汝良
+T12	PER 1143 1145	汝良
+T13	LANGUAGE 1166 1168	德文
+T14	LANGUAGE 1181 1183	德文
+T15	LANGUAGE 1323 1325	德文
+T16	PER 1344 1346	汝良
+T17	NORP 216 218	中国
+#1	MissingAnnotation T17	Missing entity
+T18	PER 1471 1473	汝良
+#2	MissingAnnotation T18	Missing entity
+T19	OCR_ERROR 219 221	一~
+#3	MissingAnnotation T19	Missing entity
+T20	OCR_ERROR 561 563	一一
+#4	MissingAnnotation T20	Missing entity
+T21	OCR_ERROR 1211 1213	一一
+#5	MissingAnnotation T21	Missing entity
+T22	OCR_ERROR 1304 1306	一一
+#6	MissingAnnotation T22	Missing entity
+#7	AnnotatorNotes T19	——
+#8	AnnotatorNotes T20	——
+#9	AnnotatorNotes T22	——
+#10	AnnotatorNotes T21	——

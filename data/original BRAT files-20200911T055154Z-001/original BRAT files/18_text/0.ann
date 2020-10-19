@@ -1,0 +1,12 @@
+T1	LOC 1162 1164	南方
+T2	GPE 1320 1323	呼兰河
+T3	FAC 1370 1373	十字街
+T4	FAC 1376 1380	十字街口
+T5	FAC 1389 1392	十字街
+T6	OCR_ERROR 1433 1437	呼兰河传
+#1	AddedAnnotation T2	Added entity
+#2	AddedAnnotation T3	Added entity
+#3	AddedAnnotation T4	Added entity
+#4	AddedAnnotation T5	Added entity
+#5	AddedAnnotation T6	Added entity
+#8	AnnotatorNotes T6	DEL

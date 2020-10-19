@@ -1,0 +1,73 @@
+T1	PER 0 2	金嫣
+T2	PER 12 14	泰来
+T3	PER 32 34	泰来
+T4	OCR_ERROR 37 39	~'
+T5	OCR_ERROR 41 42	'
+T6	PER 81 84	徐泰来
+T7	PER 163 165	泰来
+T8	OCR_ERROR 162 163	一
+T9	PER 166 168	金嫣
+T10	PER 175 178	金 嫣
+T11	PER 210 213	徐泰来
+T12	OCR_ERROR 219 221	一一
+T13	PER 240 242	金嫣
+T14	PER 257 259	金嫣
+T15	PER 260 262	泰来
+T16	PER 309 312	泰 来
+T17	PER 323 326	徐泰来
+T18	NORP 327 329	苏北
+T19	GPE 341 343	上海
+T20	PER 344 346	金嫣
+T21	NORP 353 355	大连
+T22	PER 407 409	泰来
+T23	GPE 410 412	上海
+T24	PER 446 448	泰来
+T25	PER 525 527	泰来
+T26	PER 566 568	泰来
+T27	PER 592 594	泰来
+T28	PER 622 624	泰来
+T29	OCR_ERROR 640 649	_NEWLINE_
+T30	PER 718 721	徐泰来
+T31	OCR_ERROR 734 736	11
+T32	OCR_ERROR 739 740	广
+T33	OCR_ERROR 760 761	V
+T34	OCR_ERROR 765 766	广
+T35	OCR_ERROR 769 770	广
+T36	OCR_ERROR 775 776	1
+T37	OCR_ERROR 853 854	4
+T38	PER 846 848	小徐
+T39	PER 880 882	泰来
+T40	PER 897 899	泰来
+T41	PER 920 923	徐泰来
+T42	PER 927 930	徐泰来
+T43	PER 1033 1036	徐泰来
+T44	PER 1245 1248	徐泰来
+T45	PER 1263 1266	徐泰来
+T46	PER 1301 1303	泰来
+T47	PER 1323 1325	泰来
+T48	PER 1355 1357	泰来
+T49	PER 1403 1405	泰来
+T50	PER 1444 1447	徐泰来
+#1	AddedAnnotation T5	Added entity
+#2	AddedAnnotation T32	Added entity
+#3	AddedAnnotation T33	Added entity
+#4	AddedAnnotation T34	Added entity
+#5	AddedAnnotation T35	Added entity
+T51	NORP 561 563	苏北
+#6	MissingAnnotation T51	Missing entity
+T52	LANGUAGE 576 579	普通话
+#7	MissingAnnotation T52	Missing entity
+T53	LANGUAGE 597 600	普通话
+#8	MissingAnnotation T53	Missing entity
+T54	NORP 722 724	苏北
+#9	MissingAnnotation T54	Missing entity
+#10	AnnotatorNotes T4	一
+#11	AnnotatorNotes T8	——
+#12	AnnotatorNotes T12	——
+#13	AnnotatorNotes T31	h
+#14	AnnotatorNotes T32	f
+#15	AnnotatorNotes T33	h
+#16	AnnotatorNotes T34	f
+#17	AnnotatorNotes T35	f
+#18	AnnotatorNotes T36	h
+#19	AnnotatorNotes T37	'

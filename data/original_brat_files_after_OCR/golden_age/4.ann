@@ -1,0 +1,46 @@
+T1	PER 92 94	王二
+T2	NORP 13 16	哥萨克
+T3	NORP 17 19	波兰
+T5	NORP 28 32	哥萨 克
+T6	NORP 42 44	波兰
+T7	NORP 83 85	波兰
+T8	NORP 121 124	共产党
+T9	EVENT 203 205	文革
+T10	GPE 238 240	云南
+T12	ART 129 132	样板戏
+T13	ART 153 156	样板戏
+T19	PER 644 646	王二
+T21	OCR_ERROR 761 762	^
+T24	PER 919 922	小转铃
+T28	PER 1191 1194	小转铃
+T33	OCR_ERROR 1449 1450	‘
+#1	AddedAnnotation T2	Added entity
+#3	AddedAnnotation T5	Added entity
+#4	AddedAnnotation T12	Added entity
+#5	AddedAnnotation T13	Added entity
+#6	AddedAnnotation T33	Added entity
+T36	GPE 1186 1188	广东
+#9	MissingAnnotation T36	Missing entity
+T37	PER 1196 1198	王二
+#10	MissingAnnotation T37	Missing entity
+T38	PER 1317 1320	小转铃
+#11	MissingAnnotation T38	Missing entity
+T4	PER 5 7	果氏
+T11	PER 303 306	毛主席
+T17	PER 543 548	刘 老先生
+T16	PER 417 421	刘老先生
+T18	PER 563 567	刘老先生
+T22	PER 785 789	刘老先生
+T23	PER 818 822	刘老先生
+T20	PER 731 735	刘老先生
+T15	PER 383 387	刘老先生
+T14	PER 365 369	刘老先生
+T25	PER 980 984	刘老先生
+T26	PER 1048 1052	刘老先生
+T27	PER 1100 1105	刘老先 生
+T29	PER 1246 1250	刘老先生
+T31	PER 1348 1352	刘老先生
+T32	PER 1446 1449	刘老先
+T30	PER 1324 1328	刘老先生
+#2	AnnotatorNotes T33	生
+#7	AnnotatorNotes T21	:

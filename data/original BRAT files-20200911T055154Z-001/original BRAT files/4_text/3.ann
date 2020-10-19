@@ -1,0 +1,23 @@
+T2	PER 78 80	晓霞
+T3	PER 108 110	少平
+T4	PER 111 113	少平
+T5	PER 164 167	李向前
+T6	PER 312 314	润叶
+T7	PER 386 389	李向前
+T8	PER 439 441	向前
+T9	PER 445 447	润叶
+T10	PER 473 475	润叶
+T11	OCR_ERROR 538 539	^
+T12	PER 572 575	李向前
+T13	PER 823 826	李向前
+T15	PER 1220 1223	李向前
+T16	PER 1313 1317	田 润叶
+T17	PER 1501 1504	李向前
+T18	PER 1512 1514	润叶
+T19	GPE 35 38	双水村
+#3	MissingAnnotation T19	Missing entity
+T20	GPE 1131 1134	原西县
+#4	MissingAnnotation T20	Missing entity
+T21	ART 1445 1448	信天游
+#5	MissingAnnotation T21	Missing entity
+#1	AnnotatorNotes T11	——

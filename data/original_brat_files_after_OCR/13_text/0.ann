@@ -1,0 +1,21 @@
+T1	PER 1069 1072	沙复明
+T2	PER 1094 1097	沙复明
+T3	PER 1114 1117	沙复明
+T4	PER 1136 1139	沙复明
+T5	PER 1167 1169	小唐
+T6	PER 1213 1216	沙复明
+T7	PER 1250 1253	沙复明
+T8	PER 1320 1323	沙复明
+T9	PER 1333 1335	小唐
+T10	PER 1336 1338	小唐
+T11	PER 1349 1352	沙复明
+T12	PER 1408 1411	沙复明
+T14	OCR_ERROR 506 507	一
+#2	MissingAnnotation T14	Missing entity
+T15	OCR_ERROR 737 739	一一
+#3	MissingAnnotation T15	Missing entity
+T16	OCR_ERROR 828 830	一一
+#4	MissingAnnotation T16	Missing entity
+#6	AnnotatorNotes T14	——
+#7	AnnotatorNotes T15	——
+#8	AnnotatorNotes T16	——

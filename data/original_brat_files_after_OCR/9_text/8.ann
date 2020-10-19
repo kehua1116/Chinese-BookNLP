@@ -1,0 +1,16 @@
+T1	PER 0 3	余永泽
+T2	ART 16 20	青春之歌
+T3	PER 27 30	林道静
+T4	PER 126 129	卢嘉川
+T5	PER 130 132	田华
+T6	PER 144 147	余永泽
+T7	PER 213 216	王友德
+T8	PER 281 283	培敏
+T9	PER 305 308	王友德
+T10	GPE 648 650	沈阳
+T11	FAC 824 831	大连 外语学院
+T12	PER 1187 1189	友德
+T14	PER 1392 1395	毛泽东
+#1	AddedAnnotation T11	Added entity
+T16	ORG 1202 1204	清华
+#4	MissingAnnotation T16	Missing entity

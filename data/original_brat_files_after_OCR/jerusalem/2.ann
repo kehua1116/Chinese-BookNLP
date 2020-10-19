@@ -1,0 +1,13 @@
+T1	NORP 290 293	莫西干
+T3	NORP 517 520	莫西干
+T4	PER 526 528	西哥
+T5	PER 539 541	西哥
+T6	PER 559 561	西哥
+#1	AddedAnnotation T1	Added entity
+#3	AddedAnnotation T3	Added entity
+#4	AddedAnnotation T4	Added entity
+#5	AddedAnnotation T5	Added entity
+#6	AddedAnnotation T6	Added entity
+T7	OCR_ERROR 501 510	_NEWLINE_
+#7	MissingAnnotation T7	Missing entity
+#2	AnnotatorNotes T7	DEL

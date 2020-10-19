@@ -1,0 +1,6 @@
+T1	GPE 223 225	北京
+T2	GPE 376 378	北京
+T3	LOC 627 631	麦加圣城
+#1	AddedAnnotation T3	Added entity
+T4	PER 610 613	麦 家
+#2	MissingAnnotation T4	Missing entity

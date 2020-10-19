@@ -1,0 +1,50 @@
+T1	PER 0 2	小曼
+T2	PER 98 101	何小曼
+T3	PER 140 143	何小曼
+T4	PER 354 356	小曼
+T5	OCR_ERROR 377 378	^
+T6	OCR_ERROR 400 403	II：
+T7	PER 511 513	小曼
+T8	PER 578 580	小曼
+T9	PER 648 651	何小曼
+T10	PER 782 784	小曼
+T11	PER 790 792	小曼
+T12	OCR_ERROR 917 918	一
+T13	PER 922 925	何小曼
+T14	GPE 931 933	上海
+T15	FAC 933 936	安福路
+T16	PER 962 964	小曼
+T17	PER 988 991	何厅长
+T18	PER 1057 1060	何厅长
+T19	PER 1113 1116	何厅长
+T20	LOC 1117 1122	太行山老区
+T21	GPE 1133 1135	上海
+T22	GPE 1151 1153	上海
+T23	EVENT 1168 1172	抗美援朝
+T24	GPE 1183 1185	朝鲜
+T25	PER 1189 1192	何厅长
+T26	GPE 1244 1246	上海
+T27	GPE 1266 1268	上海
+T28	NORP 1277 1279	上海
+T29	PER 1283 1286	何厅长
+T30	PER 1305 1308	何厅长
+T31	GPE 1315 1317	上海
+T32	NORP 1334 1336	上海
+T33	GPE 1348 1350	上海
+T34	GPE 1373 1375	上海
+T35	NORP 1388 1390	上海
+T36	EVENT 1409 1413	抗美援朝
+T37	NORP 1418 1421	上 海
+T38	NORP 1439 1441	上海
+#1	AddedAnnotation T7	Added entity
+#2	AddedAnnotation T8	Added entity
+#3	AddedAnnotation T20	Added entity
+T39	ART 541 544	华尔兹
+#4	MissingAnnotation T39	Missing entity
+T40	ART 537 539	越剧
+#5	MissingAnnotation T40	Missing entity
+T41	PER 969 971;972 973	拖油 瓶
+#6	MissingAnnotation T41	Missing entity
+#7	AnnotatorNotes T5	——
+#8	AnnotatorNotes T6	严歌苓 芳华
+#9	AnnotatorNotes T12	——

@@ -1,0 +1,48 @@
+T1	PER 0 2	喜妹
+T2	PER 81 83	喜妹
+T3	PER 61 63	王雄
+T4	PER 67 69	王雄
+T5	PER 86 88	王雄
+T6	OCR_ERROR 132 134	——
+T7	OCR_ERROR 137 138	一
+T8	PER 143 145	喜妹
+T9	PER 153 155	王雄
+T10	PER 170 172	喜妹
+T11	PER 235 237	喜妹
+T12	PER 270 272	王雄
+T13	PER 277 279	喜妹
+T14	PER 286 288	王雄
+T15	PER 292 294	喜妹
+T16	PER 333 335	王雄
+T17	PER 357 359	王雄
+T18	PER 420 422	王雄
+T19	PER 515 518	王 雄
+T20	PER 566 568	王雄
+T21	OCR_ERROR 593 594	^
+T22	PER 595 597	喜妹
+T23	PER 600 602	王雄
+T24	PER 642 644	喜妹
+T25	PER 801 803	丽儿
+T27	PER 1106 1108	丽儿
+T28	OCR_ERROR 1300 1302	颃&
+T29	PER 1233 1234	李
+T30	FAC 1193 1197	南京东路
+T31	FAC 1197 1202	一百二十巷
+T32	PER 1203 1204	李
+T33	PER 1437 1438	李
+T34	PER 1472 1473	李
+#1	AddedAnnotation T24	Added entity
+#2	AddedAnnotation T28	Added entity
+#3	AddedAnnotation T31	Added entity
+T35	PER 732 734	王雄
+#4	MissingAnnotation T35	Missing entity
+T36	GPE 840 842	台北
+#5	MissingAnnotation T36	Missing entity
+T37	ART 1178 1181	思旧赋
+#6	MissingAnnotation T37	Missing entity
+#7	AnnotatorNotes T6	——
+#8	AnnotatorNotes T7	——
+#9	AnnotatorNotes T21	——
+T26	PER 1014 1016	^5
+#10	AnnotatorNotes T26	那
+#11	AnnotatorNotes T28	颅夹

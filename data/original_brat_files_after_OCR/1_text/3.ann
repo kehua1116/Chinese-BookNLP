@@ -1,0 +1,19 @@
+T1	PER 115 118	李国华
+T2	PER 199 202	饼干王
+T3	PER 241 243	饼干
+T4	PER 454 456	饼干
+T5	PER 677 679	饼干
+T6	PER 725 727	饼干
+T7	PER 775 777	饼干
+T8	PER 788 790	饼干
+T9	PER 982 984	饼干
+T10	PER 1166 1168	饼干
+T11	ART 1305 1308	师铎奖
+T12	PER 1391 1393	饼干
+#1	AddedAnnotation T5	Added entity
+#2	AddedAnnotation T11	Added entity
+T13	PER 185 187	饼干
+#3	MissingAnnotation T13	Missing entity
+T14	OCR_ERROR 816 817	千
+#4	MissingAnnotation T14	Missing entity
+#5	AnnotatorNotes T14	干

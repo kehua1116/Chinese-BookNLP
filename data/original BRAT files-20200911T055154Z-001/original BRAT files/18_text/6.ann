@@ -1,0 +1,20 @@
+T1	OCR_ERROR 0 4	呼兰河传
+T2	OCR_ERROR 166 167	@
+T3	GPE 835 838	呼兰河
+T4	PER 980 984	云游真人
+T5	PER 989 993	云游真人
+T6	PER 1039 1042	张天师
+T7	PER 1226 1229	张天师
+T8	PER 1283 1287	团圆媳妇
+T9	PER 1346 1350	云游真人
+T10	PER 1392 1396	团圆媳妇
+#1	AddedAnnotation T1	Added entity
+#2	AddedAnnotation T7	Added entity
+#3	AddedAnnotation T8	Added entity
+#4	AddedAnnotation T10	Added entity
+T12	GPE 481 483	辽阳
+#6	MissingAnnotation T12	Missing entity
+T13	PER 1243 1245	阎王
+#7	MissingAnnotation T13	Missing entity
+#8	AnnotatorNotes T1	DEL
+#5	AnnotatorNotes T2	狠

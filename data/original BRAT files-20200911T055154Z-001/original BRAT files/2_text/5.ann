@@ -1,0 +1,74 @@
+T1	LOC 2 4	未庄
+T2	OCR_ERROR 44 45	〇
+T3	PER 43 45	阿〇
+T4	LOC 225 228	土谷祠
+T5	EVENT 247 249	赛会
+T7	OCR_ERROR 447 448	一
+T8	OCR_ERROR 512 513	0
+T9	PER 511 513	阿0
+T10	PER 522 526	蒙赵太爷
+T11	PER 598 601	赵太爷
+T12	ART 635 640	小孤孀上坟
+T13	PER 655 658	赵太爷
+T14	OCR_ERROR 696 697	阿
+T15	PER 705 708	赵太爷
+T16	LOC 720 722	未庄
+T17	PER 727 729	阿七
+T18	PER 730 732	阿八
+T19	PER 735 737	李四
+T20	PER 738 741	张 二
+T21	OCR_ERROR 748 749	'
+T22	OCR_ERROR 756 757	'
+T23	PER 761 764	赵太爷
+T24	OCR_ERROR 808 809	0
+T25	PER 807 809	阿0
+T26	PER 827 830	赵太爷
+T27	OCR_ERROR 875 876	0
+T28	PER 874 876	阿0
+T29	PER 878 881	赵太爷
+T30	OCR_ERROR 968 969	卩
+T31	PER 967 969	阿卩
+T32	OCR_ERROR 1006 1007	曰
+T33	PER 1013 1015	王胡
+T34	PER 1040 1042	王胡
+T35	PER 1053 1056	王癞胡
+T36	OCR_ERROR 1059 1060	卩
+T37	PER 1058 1060	阿卩
+T38	OCR_ERROR 1078 1079	0
+T39	PER 1077 1079	阿0
+T40	OCR_ERROR 1138 1139	0
+T41	PER 1137 1139	阿0
+T42	PER 1150 1152	王胡
+T43	OCR_ERROR 1188 1189	0
+T44	OCR_ERROR 1272 1273	0
+T45	PER 1187 1189	阿0
+T46	PER 1271 1273	阿0
+T47	PER 1235 1237	王胡
+T48	PER 1291 1293	王胡
+T49	PER 1375 1377	王胡
+T50	PER 1439 1441	王胡
+T51	OCR_ERROR 1456 1457	9
+T52	PER 1455 1457	阿9
+#1	AddedAnnotation T1	Added entity
+#2	AddedAnnotation T5	Added entity
+#3	AddedAnnotation T7	Added entity
+#4	AddedAnnotation T10	Added entity
+#5	AddedAnnotation T14	Added entity
+#6	AddedAnnotation T16	Added entity
+#7	AddedAnnotation T21	Added entity
+#8	AddedAnnotation T22	Added entity
+#9	AddedAnnotation T32	Added entity
+T54	PER 946 948	圣人
+#11	MissingAnnotation T54	Missing entity
+#10	AnnotatorNotes T2	Q
+#12	AnnotatorNotes T7	——
+#13	AnnotatorNotes T8	Q
+#14	AnnotatorNotes T24	Q
+#15	AnnotatorNotes T27	Q
+#16	AnnotatorNotes T30	Q
+#17	AnnotatorNotes T36	Q
+#18	AnnotatorNotes T38	Q
+#19	AnnotatorNotes T40	Q
+#20	AnnotatorNotes T43	Q
+#21	AnnotatorNotes T44	Q
+#22	AnnotatorNotes T51	Q

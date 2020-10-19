@@ -1,0 +1,46 @@
+T1	PER 5 8	铁部长
+T2	PER 95 98	安德罗
+T3	PER 153 156	安德罗
+T5	PER 225 227	老蒋
+T6	GPE 254 256	台湾
+T7	GPE 260 262	美国
+T8	OCR_ERROR 463 465	一~
+T10	OCR_ERROR 469 470	一
+T11	PER 547 550	柳处长
+T12	PER 688 691	柳处长
+T13	OCR_ERROR 787 788	^
+T14	PER 819 821	小雨
+T15	PER 853 855	小雨
+T17	PER 864 866	小雨
+T18	PER 838 841	铁部长
+T19	PER 912 914	小雨
+T20	PER 924 927	安德罗
+T21	PER 939 941	小雨
+T23	PER 1023 1025	小雨
+T26	PER 1093 1095	小雨
+T28	PER 1137 1140	铁部长
+T29	PER 1146 1148	小雨
+T30	PER 1193 1195	小雨
+T31	PER 1223 1225	小雨
+T32	PER 1287 1289	小雨
+T33	PER 1299 1302	铁部长
+T34	OCR_ERROR 1316 1317	4
+T35	PER 1347 1349	小雨
+T36	PER 1427 1429	小雨
+T37	PER 1469 1471	小雨
+#2	AddedAnnotation T8	Added entity
+#4	AddedAnnotation T10	Added entity
+T39	LOC 299 302	大 陆
+#11	MissingAnnotation T39	Missing entity
+T41	PER 953 960	‘飞机’同 志
+#13	MissingAnnotation T41	Missing entity
+T42	PER 1028 1034	“飞机”同志
+#14	MissingAnnotation T42	Missing entity
+T43	PER 1046 1052	“飞机”同志
+#15	MissingAnnotation T43	Missing entity
+T44	PER 1112 1118	“飞机”同志
+#16	MissingAnnotation T44	Missing entity
+#1	AnnotatorNotes T13	DEL
+#3	AnnotatorNotes T8	——
+#5	AnnotatorNotes T10	——
+#6	AnnotatorNotes T34	DEL

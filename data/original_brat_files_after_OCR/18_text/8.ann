@@ -1,0 +1,45 @@
+T1	PER 0 3	有二伯
+T2	PER 43 46	有二伯
+T3	PER 207 210	有二伯
+T4	PER 238 241	有二伯
+T5	PER 253 256	有二伯
+T6	OCR_ERROR 38 39	九
+T7	PER 301 304	有二伯
+T8	OCR_ERROR 316 317	十
+T9	PER 321 324	有二伯
+T10	PER 407 410	有二伯
+T11	OCR_ERROR 462 464	IV
+T12	PER 470 473	有二伯
+T13	OCR_ERROR 516 518	十一
+T14	PER 522 525	有二伯
+T15	PER 828 831	有二伯
+T16	OCR_ERROR 863 867	呼兰河#
+T17	PER 1080 1083	有二伯
+T18	PER 1248 1251	有二伯
+T19	PER 1324 1328	有 二伯
+T20	PER 1461 1464	有二伯
+#1	AddedAnnotation T1	Added entity
+#2	AddedAnnotation T2	Added entity
+#3	AddedAnnotation T3	Added entity
+#4	AddedAnnotation T4	Added entity
+#5	AddedAnnotation T5	Added entity
+#6	AddedAnnotation T6	Added entity
+#7	AddedAnnotation T7	Added entity
+#8	AddedAnnotation T8	Added entity
+#9	AddedAnnotation T9	Added entity
+#10	AddedAnnotation T10	Added entity
+#11	AddedAnnotation T11	Added entity
+#12	AddedAnnotation T12	Added entity
+#13	AddedAnnotation T13	Added entity
+#14	AddedAnnotation T14	Added entity
+#15	AddedAnnotation T15	Added entity
+#16	AddedAnnotation T16	Added entity
+#17	AddedAnnotation T17	Added entity
+#18	AddedAnnotation T18	Added entity
+#19	AddedAnnotation T19	Added entity
+#20	AddedAnnotation T20	Added entity
+#23	AnnotatorNotes T6	DEL
+#24	AnnotatorNotes T8	DEL
+#21	AnnotatorNotes T11	DEL
+#22	AnnotatorNotes T13	DEL
+#25	AnnotatorNotes T16	DEL

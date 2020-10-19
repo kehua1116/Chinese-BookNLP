@@ -1,0 +1,38 @@
+T2	PER 14 16	线条
+T3	PER 76 78	线条
+T4	PER 93 95	线条
+T9	PER 444 446	线条
+T15	PER 705 707	线条
+T18	PER 782 784	线条
+T20	PER 995 997	线条
+T22	PER 1086 1088	线条
+#2	AddedAnnotation T22	Added entity
+T26	PER 201 205	龟头血肿
+#3	MissingAnnotation T26	Missing entity
+T27	OCR_ERROR 277 286	_NEWLINE_
+#4	MissingAnnotation T27	Missing entity
+T28	PER 771 775	龟头血肿
+#5	MissingAnnotation T28	Missing entity
+T29	PER 62 67	龟 头血肿
+#6	MissingAnnotation T29	Missing entity
+T30	PER 866 870	龟头血肿
+#7	MissingAnnotation T30	Missing entity
+T31	PER 1035 1039	龟头血肿
+#8	MissingAnnotation T31	Missing entity
+T1	PER 0 3	李先生
+T8	PER 314 317	李先生
+T7	PER 270 273	李先生
+T10	PER 516 520	李先 生
+T12	PER 624 627	凤师傅
+T13	PER 639 642	凤师傅
+T14	PER 680 683	李先生
+T16	PER 715 718	李先生
+T17	PER 746 749	李先生
+T21	PER 1001 1004	李先生
+T19	PER 881 884	李先生
+T23	PER 1105 1108	贺先生
+T25	PER 1201 1204	贺先生
+T24	PER 1140 1143	贺先生
+T11	PER 556 559	李先生
+T5	PER 220 223	李先生
+#1	AnnotatorNotes T27	DEL

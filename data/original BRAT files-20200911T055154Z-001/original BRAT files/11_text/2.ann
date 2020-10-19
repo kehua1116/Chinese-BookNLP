@@ -1,0 +1,58 @@
+T1	PER 5 8	金大班
+T2	FAC 67 70	夜巴黎
+T3	FAC 74 77	夜巴黎
+T4	FAC 86 89	百乐门
+T5	FAC 97 100	夜巴黎
+T6	PER 110 113	童得怀
+T7	FAC 118 121	百乐门
+T8	PER 131 135	金大 班
+T9	PRODUCT 140 144	巴黎之夜
+T10	PER 209 212	金大班
+T11	PER 256 259	金兆丽
+T12	FAC 269 272	百乐门
+T13	PER 277 280	任黛黛
+T14	PER 286 290	潘老头儿
+T15	PER 290 293	潘金荣
+T16	PER 328 332	潘老头儿
+T17	PER 334 337	金兆丽
+T18	PER 386 389	任黛黛
+T19	GPE 430 433	台 北
+T20	PER 435 438	任黛黛
+T21	PER 589 592	萧红美
+T22	PER 630 633	陈老板
+T23	FAC 649 652	状元楼
+T24	FAC 653 656	夜巴黎
+T25	PER 682 685	陈发荣
+T26	PER 742 745	陈发荣
+T27	GPE 782 785	新加坡
+T29	LOC 897 899	南洋
+T30	FAC 921 925	阳明山庄
+T31	PER 943 947	金兆 丽
+T32	PER 985 988	金大班
+T33	PER 1062 1065	陈发荣
+T34	PER 1144 1148	陈老头儿
+T35	OCR_ERROR 1195 1196	^
+T36	PER 1196 1199	金大班
+T37	PER 1239 1244	陈 老头儿
+T38	PER 1310 1313	金大班
+T39	GPE 1394 1396	台北
+T40	PER 1436 1439	金大班
+#1	AddedAnnotation T23	Added entity
+#3	AddedAnnotation T30	Added entity
+#4	AddedAnnotation T39	Added entity
+T42	FAC 1101 1106	宜香美容院
+#6	MissingAnnotation T42	Missing entity
+T43	OCR_ERROR 1125 1126	一
+#7	MissingAnnotation T43	Missing entity
+T45	PER 308 311	细丁香
+#9	MissingAnnotation T45	Missing entity
+T46	PER 474 477	细丁香
+#10	MissingAnnotation T46	Missing entity
+T47	PER 508 511	玉观音
+#11	MissingAnnotation T47	Missing entity
+T48	PER 735 738	玉观音
+#12	MissingAnnotation T48	Missing entity
+T49	GPE 887 889	台山
+#13	MissingAnnotation T49	Missing entity
+#2	AnnotatorNotes T43	——
+#5	AnnotatorNotes T35	——

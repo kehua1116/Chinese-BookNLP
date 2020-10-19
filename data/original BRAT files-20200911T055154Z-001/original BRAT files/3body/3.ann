@@ -1,0 +1,78 @@
+T2	PER 17 19	汪淼
+T5	PER 139 141	汪淼
+T6	LOC 147 149	宇宙
+T7	PER 165 168	沙瑞山
+T8	OCR_ERROR 297 298	！
+T9	OCR_ERROR 301 303	，，
+T10	OCR_ERROR 305 306	1
+T11	FAC 317 322	首都天文馆
+T12	PER 344 348	彭齐阿斯
+T13	PER 349 352	威尔逊
+T14	OCR_ERROR 362 365	31^
+T15	OCR_ERROR 462 465	31^
+T16	LOC 459 461	宇宙
+T17	LOC 478 480	宇宙
+T18	PER 529 532	沙瑞山
+T19	PER 554 557	沙瑞山
+T20	PER 585 587	汪淼
+T21	PER 593 596	沙瑞山
+T22	PER 713 715	汪淼
+T23	PER 723 726	沙瑞山
+T24	PER 728 730	汪淼
+T25	PER 765 767	汪淼
+T26	PER 811 813	汪淼
+T27	PER 823 825	汪淼
+T28	PER 885 887	汪淼
+T29	LOC 907 909	宇宙
+T30	LOC 931 933	宇宙
+T31	PER 988 990	汪淼
+T32	PER 1002 1004	汪淼
+T33	OCR_ERROR 1012 1015	31^
+T35	PER 1109 1111	汪淼
+T36	OCR_ERROR 1126 1129	31^
+T37	PRODUCT 1143 1146	V装具
+T38	OCR_ERROR 1170 1171	|
+T39	OCR_ERROR 1203 1204	彳
+T41	EVENT 1346 1349	大爆炸
+T42	OCR_ERROR 1391 1392	|
+T43	PER 1422 1424	汪淼
+T45	LOC 1472 1474	宇宙
+T46	PER 1497 1499	汪淼
+T47	LOC 1503 1505	宇宙
+#3	AddedAnnotation T6	Added entity
+#4	AddedAnnotation T8	Added entity
+#5	AddedAnnotation T9	Added entity
+#6	AddedAnnotation T10	Added entity
+#7	AddedAnnotation T14	Added entity
+#8	AddedAnnotation T15	Added entity
+#9	AddedAnnotation T16	Added entity
+#10	AddedAnnotation T17	Added entity
+#11	AddedAnnotation T24	Added entity
+#12	AddedAnnotation T29	Added entity
+#13	AddedAnnotation T30	Added entity
+#14	AddedAnnotation T33	Added entity
+#15	AddedAnnotation T36	Added entity
+#16	AddedAnnotation T37	Added entity
+#17	AddedAnnotation T38	Added entity
+#19	AddedAnnotation T42	Added entity
+#21	AddedAnnotation T45	Added entity
+#22	AddedAnnotation T47	Added entity
+T48	FAC 500 503	天文馆
+#23	MissingAnnotation T48	Missing entity
+T49	FAC 836 840	新天文馆
+#24	MissingAnnotation T49	Missing entity
+T50	OCR_ERROR 1355 1359	丨丨卜I
+#25	MissingAnnotation T50	Missing entity
+T51	FAC 895 899	新天文馆
+#26	MissingAnnotation T51	Missing entity
+T1	PER 1 4	沙博士
+T3	PER 1082 1085	沙博士
+#1	AnnotatorNotes T8	3K
+#2	AnnotatorNotes T9	"
+#20	AnnotatorNotes T10	"3K
+#27	AnnotatorNotes T14	3K
+#28	AnnotatorNotes T15	3K
+#29	AnnotatorNotes T33	3K
+#30	AnnotatorNotes T36	3K
+#18	AnnotatorNotes T50	世
+#31	AnnotatorNotes T42	DEL

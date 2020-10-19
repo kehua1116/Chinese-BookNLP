@@ -1,0 +1,35 @@
+T1	NORP 55 57	北方
+T2	PER 368 370	阿炳
+T3	PER 377 380	林神将
+T4	PER 444 446	阿炳
+T5	PER 656 658	阿炳
+T6	PER 667 669	阿炳
+T7	PER 688 691	林神将
+T8	PER 729 732	铁院长
+T9	PER 757 760	铁院长
+T10	PER 898 900	阿炳
+T11	PER 939 942	铁院长
+T12	PER 943 946	吴局长
+T13	PER 1066 1068	阿炳
+T14	PER 1106 1108	阿炳
+T15	PER 1136 1138	阿炳
+T16	OCR_ERROR 1217 1218	^
+T17	PER 1414 1417	林神将
+T18	PER 1440 1442	阿炳
+T19	PER 1475 1477	阿炳
+T20	PER 1579 1581	阿炳
+T21	PER 1627 1629	阿炳
+T22	PER 1651 1653	阿炳
+T23	PER 1679 1681	阿炳
+T24	PER 1715 1717	阿炳
+#1	AddedAnnotation T7	Added entity
+#2	AddedAnnotation T16	Added entity
+#3	AddedAnnotation T17	Added entity
+T27	OCR_ERROR 295 296	丨
+#6	MissingAnnotation T27	Missing entity
+T30	ORG 90 93	701
+#9	MissingAnnotation T30	Missing entity
+#4	AnnotatorNotes T27	/
+#5	AnnotatorNotes T16	DEL
+T25	OCR_ERROR 1191 1192	^
+#7	AnnotatorNotes T25	DEL

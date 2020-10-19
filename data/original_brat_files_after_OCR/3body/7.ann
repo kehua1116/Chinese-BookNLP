@@ -1,0 +1,22 @@
+T1	LOC 58 60	宇宙
+T2	PER 174 177	叶文洁
+T3	PER 247 250	雷志成
+T4	PER 271 274	叶文洁
+T5	PER 314 317	杨卫宁
+T6	PER 437 440	雷志成
+T7	PER 516 519	杨卫宁
+T8	PER 535 537	小叶
+T9	PER 569 572	雷志成
+T10	OCR_ERROR 1112 1113	|
+T11	OCR_ERROR 1145 1146	|
+T13	PER 1195 1198	雷志成
+T14	PER 1213 1216	雷志成
+#1	AddedAnnotation T1	Added entity
+#2	AddedAnnotation T10	Added entity
+#3	AddedAnnotation T11	Added entity
+T15	OCR_ERROR 366 367	剛
+#5	MissingAnnotation T15	Missing entity
+T16	LOC 844 847	雷达峰
+#6	MissingAnnotation T16	Missing entity
+#4	AnnotatorNotes T15	吗？
+#7	AnnotatorNotes T11	DEL

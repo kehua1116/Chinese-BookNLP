@@ -1,0 +1,34 @@
+T3	GPE 47 50	匈牙利
+T4	NORP 67 69	日本
+T5	GPE 88 91	匈牙利
+T6	GPE 92 94	北京
+T15	NORP 438 440	西夏
+T20	EVENT 554 558	文化革命
+T22	NORP 643 645	非洲
+T23	EVENT 657 661	文化革命
+T25	GPE 844 846	山西
+T26	GPE 899 901	山西
+#6	AddedAnnotation T22	Added entity
+T29	OCR_ERROR 271 275	〇 36
+#8	MissingAnnotation T29	Missing entity
+T30	NORP 420 426	维多利亚时期
+#9	MissingAnnotation T30	Missing entity
+T33	GPE 653 655	中国
+#12	MissingAnnotation T33	Missing entity
+T34	GPE 1381 1383	北京
+#13	MissingAnnotation T34	Missing entity
+T7	PER 110 113	李先生
+T2	PER 16 19	李先生
+T1	PER 9 12	李先生
+T21	PER 577 580	李先生
+T24	PER 756 759	李先生
+T28	PER 1460 1463	李先生
+T13	LANGUAGE 467 469	俄文
+T16	LANGUAGE 483 485	俄文
+T17	LANGUAGE 476 479	西夏文
+T18	LANGUAGE 493 496	西夏文
+#1	AnnotatorNotes T29	。那
+T10	PER 210 213	李先生
+T8	PER 152 155	李先生
+T9	PER 302 305	李先生
+T11	PER 409 412	李先生

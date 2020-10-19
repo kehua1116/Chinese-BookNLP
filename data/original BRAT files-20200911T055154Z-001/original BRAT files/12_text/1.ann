@@ -1,0 +1,7 @@
+T1	PER 7 10	王一生
+T2	ORG 237 240	沟底队
+T3	OCR_ERROR 408 409	坤
+T4	PER 492 495	王一生
+T5	PER 1039 1042	邦 斯
+#1	AddedAnnotation T3	Added entity
+#2	AnnotatorNotes T3	说

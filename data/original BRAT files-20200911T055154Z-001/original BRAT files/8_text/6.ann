@@ -1,0 +1,32 @@
+T1	PER 2 5	何小曼
+T2	PER 30 33	何护士
+T3	PER 49 53	何 护士
+T4	PER 84 87	何小曼
+T6	PER 109 112	何小曼
+T7	PER 234 237	白求恩
+T8	PER 667 670	何护士
+T9	PER 685 688	何小曼
+T10	PER 765 767	小何
+T11	PER 769 771	小何
+T13	PER 886 889	何小曼
+T14	PER 1047 1050	何小曼
+T15	ART 1146 1151	再见吧妈妈
+T16	ART 1161 1166	再见吧妈妈
+T17	NORP 1171 1173	成都
+T18	ART 1188 1193	再见吧妈妈
+T19	PER 1195 1199	何 小曼
+T20	OCR_ERROR 1249 1252	II：
+T21	ART 1338 1344	再 见吧妈妈
+T22	PER 1352 1354	小曼
+T23	PER 1386 1388	小曼
+T24	PER 1492 1495	何小曼
+#2	AddedAnnotation T7	Added entity
+#4	AddedAnnotation T17	Added entity
+#5	AddedAnnotation T20	Added entity
+T25	GPE 91 92	川
+#6	MissingAnnotation T25	Missing entity
+T26	GPE 92 93	滇
+#7	MissingAnnotation T26	Missing entity
+T27	PRODUCT 800 804	成昆特快
+#8	MissingAnnotation T27	Missing entity
+#1	AnnotatorNotes T20	严歌苓 芳华

@@ -1,0 +1,26 @@
+T1	PER 0 3	李国华
+T2	PER 4 6	思琪
+T3	PER 141 144	李国华
+T4	OCR_ERROR 295 304	_NEWLINE_
+T5	PER 379 381	思琪
+T6	PER 445 447	思琪
+T7	PER 764 767	赵飞燕
+T8	PER 843 845	飞燕
+T9	PER 848 852	赵 合德
+T10	ART 1157 1160	短歌行
+T11	PER 1153 1155	曹操
+T12	ART 1185 1206	月明星稀，乌鹊南飞。绕树三匝，何 枝可依？
+T13	OCR_ERROR 1284 1293	_NEWLINE_
+T14	PER 1367 1369	小葵
+T15	PER 1388 1390	小葵
+#1	AddedAnnotation T7	Added entity
+#2	AddedAnnotation T8	Added entity
+#3	AddedAnnotation T12	Added entity
+T16	ORG 156 159	好莱坞
+#4	MissingAnnotation T16	Missing entity
+T17	PER 679 681	怡婷
+#5	MissingAnnotation T17	Missing entity
+T18	LOC 1261 1263	地球
+#6	MissingAnnotation T18	Missing entity
+#8	AnnotatorNotes T4	DEL
+#7	AnnotatorNotes T13	DEL

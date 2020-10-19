@@ -1,0 +1,26 @@
+T1	PER 147 150	田晓霞
+T2	PER 234 237	孙少平
+T3	PER 257 259	少平
+T4	PER 304 306	少平
+T5	PER 334 337	孙少平
+T6	PER 741 744	孙少平
+T7	PER 900 903	孙少平
+T8	PER 951 953	少平
+T9	PER 1071 1073	少平
+T10	ART 1091 1095	参考消息
+T11	PER 1244 1247	田晓霞
+T12	PER 1252 1255	孙少平
+T13	PER 1288 1290	少平
+T14	OCR_ERROR 1332 1341	_NEWLINE_
+T15	OCR_ERROR 1410 1411	^
+T17	ART 1456 1460	哈姆雷特
+T18	PER 1438 1442	莎士比亚
+T19	ART 1468 1473	王子复仇记
+T21	PER 1541 1544	孙少平
+#1	AddedAnnotation T4	Added entity
+#2	AddedAnnotation T10	Added entity
+T22	GPE 1475 1477	黄原
+#5	MissingAnnotation T22	Missing entity
+T16	GPE 1425 1427	黄原
+#3	AnnotatorNotes T14	DEL
+#4	AnnotatorNotes T15	......

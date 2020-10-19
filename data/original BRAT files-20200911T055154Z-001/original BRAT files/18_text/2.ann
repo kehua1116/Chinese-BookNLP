@@ -1,0 +1,8 @@
+T1	OCR_ERROR 318 319	3
+T3	GPE 504 508	呼兰河城
+T4	OCR_ERROR 542 543	0
+#2	MissingAnnotation T4	Missing entity
+T5	PER 638 641	龙王爷
+#3	MissingAnnotation T5	Missing entity
+#4	AnnotatorNotes T1	，
+#1	AnnotatorNotes T4	。

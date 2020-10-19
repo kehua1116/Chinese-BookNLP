@@ -1,0 +1,14 @@
+T1	OCR_ERROR 252 261	_NEWLINE_
+T4	LOC 416 418	东北
+T5	NORP 461 463	湘西
+T6	PER 593 596	三五八
+T7	GPE 1139 1141	长沙
+#3	AddedAnnotation T5	Added entity
+#4	AddedAnnotation T7	Added entity
+T15	NORP 346 347	俄
+#12	MissingAnnotation T15	Missing entity
+T28	LOC 403 405	西北
+#25	MissingAnnotation T28	Missing entity
+T29	GPE 405 409	绥远包头
+#26	MissingAnnotation T29	Missing entity
+#1	AnnotatorNotes T1	DEL

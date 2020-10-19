@@ -1,0 +1,56 @@
+T1	LOC 28 30	地球
+T2	ORG 287 291	三体舰队
+T3	LOC 293 295	地球
+T4	ORG 326 331	三 体舰队
+T5	LOC 368 371	太阳系
+T6	ORG 390 394	三体舰队
+T7	LOC 395 397	地球
+T8	OCR_ERROR 596 597	I
+T9	OCR_ERROR 661 662	|
+T10	OCR_ERROR 1077 1078	|
+T11	LOC 1056 1058	地球
+T12	OCR_ERROR 1110 1111	I
+T13	OCR_ERROR 1142 1143	|
+T14	OCR_ERROR 1335 1336	人
+T15	OCR_ERROR 1492 1493	4
+T16	LOC 1504 1506	地球
+T17	LOC 768 770	地球
+T18	LOC 731 733	地球
+T19	LOC 820 822	地球
+T20	LOC 1558 1560	地球
+#1	AddedAnnotation T2	Added entity
+#2	AddedAnnotation T3	Added entity
+#3	AddedAnnotation T4	Added entity
+#4	AddedAnnotation T5	Added entity
+#5	AddedAnnotation T6	Added entity
+#6	AddedAnnotation T7	Added entity
+#7	AddedAnnotation T8	Added entity
+#8	AddedAnnotation T9	Added entity
+#9	AddedAnnotation T10	Added entity
+#10	AddedAnnotation T11	Added entity
+#11	AddedAnnotation T12	Added entity
+#12	AddedAnnotation T13	Added entity
+#13	AddedAnnotation T14	Added entity
+#14	AddedAnnotation T15	Added entity
+#15	AddedAnnotation T16	Added entity
+#16	AddedAnnotation T17	Added entity
+#17	AddedAnnotation T18	Added entity
+#18	AddedAnnotation T19	Added entity
+#19	AddedAnnotation T20	Added entity
+T21	LOC 167 171	三体世界
+#20	MissingAnnotation T21	Missing entity
+T23	LOC 510 512	太阳
+#22	MissingAnnotation T23	Missing entity
+T24	EVENT 990 994	‘染色’
+#23	MissingAnnotation T24	Missing entity
+T25	EVENT 1086 1090	‘神迹’
+#24	MissingAnnotation T25	Missing entity
+T22	EVENT 1488 1490	染色
+T26	EVENT 1493 1495	神迹
+#21	AnnotatorNotes T14	入
+#25	AnnotatorNotes T15	‘
+#26	AnnotatorNotes T8	DEL
+#27	AnnotatorNotes T9	DEL
+#28	AnnotatorNotes T10	DEL
+#29	AnnotatorNotes T13	DEL
+#30	AnnotatorNotes T12	DEL

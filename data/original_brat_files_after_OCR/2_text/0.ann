@@ -1,0 +1,35 @@
+T1	ART 116 118	呐喊
+T2	OCR_ERROR 147 148	人
+T4	OCR_ERROR 543 544	X
+T5	OCR_ERROR 548 549	X
+T6	ART 607 611	全体新论
+T7	ART 614 620	化学卫 生论
+T8	GPE 715 717	日本
+T9	GPE 764 766	曰本
+T10	OCR_ERROR 764 765	曰
+T11	EVENT 718 720	维新
+T12	EVENT 835 837	维新
+T13	EVENT 947 951	日俄战争
+T14	NORP 1022 1024	中国
+T15	GPE 1071 1073	俄国
+T16	NORP 1085 1086	日
+T17	GPE 1134 1136	东京
+T18	OCR_ERROR 1242 1251	_NEWLINE_
+T19	GPE 1282 1284	东京
+T20	ART 1405 1407	新生
+T21	ART 1414 1416	新生
+T22	ART 1537 1539	新生
+#2	AddedAnnotation T10	Added entity
+#3	AddedAnnotation T13	Added entity
+T23	NORP 726 728	西方
+#4	MissingAnnotation T23	Missing entity
+T26	OCR_ERROR 383 385	1^
+#7	MissingAnnotation T26	Missing entity
+T27	OCR_ERROR 386 387	^
+#8	MissingAnnotation T27	Missing entity
+#1	AnnotatorNotes T2	入
+#5	AnnotatorNotes T26	N
+#6	AnnotatorNotes T27	K
+#9	AnnotatorNotes T4	N
+#10	AnnotatorNotes T5	K
+#11	AnnotatorNotes T18	DEL

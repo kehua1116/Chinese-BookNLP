@@ -1,0 +1,20 @@
+T1	PER 63 66	陈老五
+T2	PER 81 84	陈老五
+T3	OCR_ERROR 587 596	_NEWLINE_
+T6	PER 1284 1287	孔乙己
+T7	PER 1309 1312	孔乙己
+T8	PER 1462 1465	孔乙己
+T9	PER 1466 1469	孔乙己
+T10	PER 1493 1496	孔乙己
+T11	PER 780 783	孔乙己
+#3	MissingAnnotation T11	Missing entity
+T12	GPE 787 789	鲁镇
+#4	MissingAnnotation T12	Missing entity
+T14	OCR_ERROR 1110 1111	菌
+#6	MissingAnnotation T14	Missing entity
+T15	PER 1437 1440	孔乙己
+#7	MissingAnnotation T15	Missing entity
+#1	AnnotatorNotes T3	DEL
+T4	OCR_ERROR 1103 1107	II吶喊
+#2	AnnotatorNotes T4	DEL
+#5	AnnotatorNotes T14	舀

@@ -1,0 +1,47 @@
+T1	ART 17 20	不了情
+T2	PER 30 32	刘琼
+T3	PER 38 41	陈燕燕
+T4	PER 44 47	陈燕燕
+T5	PER 148 150	路珊
+T6	PER 151 153	姚妈
+T7	OCR_ERROR 184 186	一一
+T8	OCR_ERROR 196 198	一一
+T9	OCR_ERROR 221 223	一一
+T10	OCR_ERROR 254 256	一一
+T11	ART 294 297	多少恨
+T12	OCR_ERROR 324 326	一一
+T13	OCR_ERROR 332 334	一一
+T14	OCR_ERROR 409 418	_NEWLINE_
+T15	OCR_ERROR 458 459	一
+T16	OCR_ERROR 698 700	―~
+T17	OCR_ERROR 1356 1358	一一
+T18	OCR_ERROR 708 710	一一
+T19	OCR_ERROR 471 473	一一
+T21	ART 563 566	不了情
+T22	PER 600 604	痖弦先生
+T23	GPE 609 611	香港
+T24	OCR_ERROR 823 825	一一
+T25	OCR_ERROR 1021 1030	_NEWLINE_
+T26	PER 1082 1085	虞家茵
+T27	PER 1461 1464	虞家茵
+T28	PER 1487 1489	家茵
+#1	AddedAnnotation T9	Added entity
+#2	AddedAnnotation T15	Added entity
+#3	AddedAnnotation T16	Added entity
+#5	AddedAnnotation T23	Added entity
+T29	GPE 304 306	美国
+#6	MissingAnnotation T29	Missing entity
+T30	LOC 502 504	大陆
+#7	MissingAnnotation T30	Missing entity
+#4	AnnotatorNotes T7	——
+#8	AnnotatorNotes T8	——
+#9	AnnotatorNotes T9	——
+#10	AnnotatorNotes T10	——
+#11	AnnotatorNotes T12	——
+#12	AnnotatorNotes T13	——
+#13	AnnotatorNotes T15	——
+#14	AnnotatorNotes T19	——
+#15	AnnotatorNotes T16	——
+#16	AnnotatorNotes T18	——
+#17	AnnotatorNotes T24	——
+#18	AnnotatorNotes T17	——

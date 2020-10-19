@@ -1,0 +1,61 @@
+T6	OCR_ERROR 412 416	021^
+T10	LOC 484 489	鲸鱼座丁星
+T11	LOC 490 495	波江座杉星
+T12	OCR_ERROR 518 524	02^ II
+T13	PRODUCT 547 553	先驱者10号
+T14	PRODUCT 554 560	先驱者11号
+T15	LOC 573 575	地球
+T16	PRODUCT 595 600	旅行者1号
+T17	PRODUCT 602 607	旅行者2号
+T19	PRODUCT 632 640	阿雷 西博望远镜
+T21	OCR_ERROR 734 735	0
+T22	GPE 740 742	苏联
+T24	PRODUCT 825 835	综合孔径 射电望远镜
+T25	OCR_ERROR 865 866	〇
+T1	GPE 372 374	美国
+T5	LOC 1125 1127	地球
+T20	OCR_ERROR 1238 1239	〇
+T26	ORG 1282 1287	国防科工委
+T27	ORG 1288 1293	中国科学院
+T28	ORG 1300 1306	中计委国防司
+T31	LOC 1663 1665	宇宙
+#1	AddedAnnotation T6	Added entity
+#4	AddedAnnotation T12	Added entity
+#5	AddedAnnotation T13	Added entity
+#6	AddedAnnotation T14	Added entity
+#7	AddedAnnotation T15	Added entity
+#8	AddedAnnotation T16	Added entity
+#9	AddedAnnotation T17	Added entity
+#11	AddedAnnotation T19	Added entity
+#12	AddedAnnotation T21	Added entity
+#14	AddedAnnotation T24	Added entity
+#15	AddedAnnotation T25	Added entity
+#19	AddedAnnotation T5	Added entity
+#21	AddedAnnotation T20	Added entity
+#24	AddedAnnotation T31	Added entity
+T32	ORG 377 379	北约
+#25	MissingAnnotation T32	Missing entity
+T37	GPE 627 631	波多黎各
+#30	MissingAnnotation T37	Missing entity
+T39	ORG 769 771	北约
+#32	MissingAnnotation T39	Missing entity
+T41	GPE 1040 1042	美帝
+#34	MissingAnnotation T41	Missing entity
+T42	ORG 1043 1047	北约集团
+#35	MissingAnnotation T42	Missing entity
+T43	ORG 1080 1084	华约集团
+#36	MissingAnnotation T43	Missing entity
+T44	ORG 1228 1232	红岸工程
+#37	MissingAnnotation T44	Missing entity
+T45	ORG 1412 1416	红岸工程
+#38	MissingAnnotation T45	Missing entity
+T46	FAC 425 442	美国西维吉尼亚绿 堤国家射电天文台
+#39	MissingAnnotation T46	Missing entity
+T2	GPE 1077 1079	苏修
+#2	AnnotatorNotes T6	OZMA
+#3	AnnotatorNotes T12	OZMA II
+#10	AnnotatorNotes T21	。
+#13	AnnotatorNotes T25	。
+#16	AnnotatorNotes T20	1
+T3	OCR_ERROR 1375 1377	1，
+#17	AnnotatorNotes T3	1.

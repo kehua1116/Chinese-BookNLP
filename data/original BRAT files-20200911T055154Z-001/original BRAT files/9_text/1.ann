@@ -1,0 +1,31 @@
+T1	GPE 17 19	沈阳
+T2	OCR_ERROR 77 86	_NEWLINE_
+T3	PER 269 271	王嬸
+T4	PER 277 280	杨招弟
+T5	PER 461 464	李凤娟
+T6	ART 440 442	占城
+T7	PER 477 480	陈老师
+T8	PER 506 509	陈老师
+T9	PER 635 638	陈老师
+T10	PER 773 775	王嬸
+T11	PER 910 912	招弟
+T12	PER 928 930	招弟
+T13	PER 950 953	培敏姐
+T14	PER 1100 1102	王嬸
+T15	PER 1103 1106	杨招弟
+T16	PER 1120 1123	扬招弟
+T17	OCR_ERROR 1169 1170	，
+T18	EVENT 1155 1160	文化大革命
+T19	EVENT 1211 1216	文化大革命
+T20	PER 1497 1499	尔娟
+#1	AddedAnnotation T1	Added entity
+#2	AddedAnnotation T6	Added entity
+#3	AddedAnnotation T11	Added entity
+#4	AddedAnnotation T12	Added entity
+T21	LANGUAGE 217 220	东北话
+#5	MissingAnnotation T21	Missing entity
+T22	PER 670 672	王嬸
+#6	MissingAnnotation T22	Missing entity
+T23	EVENT 1465 1468	文 革
+#7	MissingAnnotation T23	Missing entity
+#8	AnnotatorNotes T17	. 

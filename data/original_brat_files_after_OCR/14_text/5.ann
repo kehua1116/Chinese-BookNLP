@@ -1,0 +1,10 @@
+T1	PER 69 72	黄依依
+T2	PER 158 161	黄依依
+T3	OCR_ERROR 243 252	_NEWLINE_
+T4	PER 364 367	黄依依
+T5	PER 656 659	依 依
+T8	ORG 283 286	701
+#3	MissingAnnotation T8	Missing entity
+T9	ORG 311 314	701
+#4	MissingAnnotation T9	Missing entity
+#1	AnnotatorNotes T3	DEL

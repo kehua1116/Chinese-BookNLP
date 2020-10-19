@@ -1,0 +1,23 @@
+T1	GPE 80 82	中国
+T2	FAC 106 110	中山大学
+T3	FAC 125 129	厦门大学
+T5	ART 176 178	一觉
+T7	GPE 199 201	广州
+T8	ART 333 335	野草
+T9	ART 350 352	莽原
+T10	ART 356 360	旧事重提
+T11	ART 378 382	朝花夕拾
+T12	GPE 664 666	北京
+T13	FAC 699 703	厦门大学
+T14	PER 770 772	鲁迅
+T15	ART 841 845	兔 和猫
+T16	PER 1058 1062	鲁迅先生
+T17	PER 1285 1291	覃哈特博 士
+T18	ART 1293 1301	自然史底国民童话
+#3	AddedAnnotation T12	Added entity
+T19	GPE 149 152	北京城
+#4	MissingAnnotation T19	Missing entity
+T20	GPE 773 775	广州
+#5	MissingAnnotation T20	Missing entity
+T21	LOC 775 778	白云楼
+#6	MissingAnnotation T21	Missing entity

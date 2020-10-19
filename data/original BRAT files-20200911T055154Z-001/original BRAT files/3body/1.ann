@@ -1,0 +1,48 @@
+T1	FAC 0 4	同仁医院
+T2	PER 9 11	汪淼
+T3	PER 61 63	汪淼
+T4	PER 119 121	汪淼
+T6	OCR_ERROR 285 288	|忽略
+T7	OCR_ERROR 445 446	|
+T8	PER 453 455	李瑶
+T9	PER 573 575	李瑶
+T10	PER 586 588	豆豆
+T11	PER 836 838	汪淼
+T15	PRODUCT 925 930	神舟19号
+T16	ORG 966 972	国际空 间站
+T17	LOC 988 990	太阳
+T19	PER 1049 1051	汪淼
+T24	OCR_ERROR 1066 1067	^
+T25	OCR_ERROR 1099 1100	|
+T20	PER 1128 1130	汪淼
+T21	ORG 1132 1136	纳米中心
+T22	OCR_ERROR 1157 1158	^
+T23	OCR_ERROR 1195 1196	？
+T28	PRODUCT 1248 1250	飞刃
+T29	OCR_ERROR 1258 1259	^
+T33	PER 1582 1584	汪淼
+T34	OCR_ERROR 1291 1292	|
+#2	AddedAnnotation T6	Added entity
+#3	AddedAnnotation T7	Added entity
+#7	AddedAnnotation T15	Added entity
+#8	AddedAnnotation T16	Added entity
+#9	AddedAnnotation T17	Added entity
+#11	AddedAnnotation T24	Added entity
+#12	AddedAnnotation T25	Added entity
+#13	AddedAnnotation T22	Added entity
+#14	AddedAnnotation T23	Added entity
+#17	AddedAnnotation T29	Added entity
+#21	AddedAnnotation T34	Added entity
+T36	OCR_ERROR 248 249	〇
+#23	MissingAnnotation T36	Missing entity
+T37	PER 1206 1208	汪淼
+#24	MissingAnnotation T37	Missing entity
+#25	AnnotatorNotes T36	D
+#1	AnnotatorNotes T6	忽略
+#4	AnnotatorNotes T7	DEL
+#5	AnnotatorNotes T24	DEL
+#6	AnnotatorNotes T23	DEL
+#10	AnnotatorNotes T29	DEL
+#15	AnnotatorNotes T25	DEL
+#16	AnnotatorNotes T22	DEL
+#18	AnnotatorNotes T34	DEL

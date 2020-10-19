@@ -1,0 +1,38 @@
+T1	PER 5 7	尔娟
+T2	PER 54 56	高琦
+T3	PER 67 69	老万
+T4	PER 104 107	髙 琦
+T5	PER 108 110	老万
+T6	PER 131 133	尔娟
+T7	PER 140 142	达远
+T8	PER 348 350	尔娟
+T9	PER 446 448	达远
+T10	PER 517 519	达远
+T11	PER 534 536	尔娟
+T12	PER 634 636	尔娟
+T13	PER 660 662	尔娟
+T14	PER 1054 1056	达远
+T15	PER 1185 1187	达远
+T16	PER 1122 1124	尔娟
+T17	OCR_ERROR 1214 1216	-―
+T18	PER 1276 1278	达远
+T20	PER 1359 1362	毛主席
+T21	PER 1385 1387	尔娟
+T22	PER 1397 1399	尔娟
+T23	PER 1414 1416	尔娟
+T24	PER 1433 1435	尔娟
+T25	PER 1451 1453	祥瑞
+T26	PER 1457 1459	祥瑞
+T27	PER 1500 1502	尔娟
+#1	AddedAnnotation T9	Added entity
+#2	AddedAnnotation T13	Added entity
+#3	AddedAnnotation T14	Added entity
+#4	AddedAnnotation T15	Added entity
+#5	AddedAnnotation T18	Added entity
+#7	AddedAnnotation T26	Added entity
+T30	PER 1325 1328	尔娟妈
+#10	MissingAnnotation T30	Missing entity
+T31	OCR_ERROR 1455 1457	一一
+#11	MissingAnnotation T31	Missing entity
+#6	AnnotatorNotes T17	——
+#9	AnnotatorNotes T31	——

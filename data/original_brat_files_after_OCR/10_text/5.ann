@@ -1,0 +1,24 @@
+T1	PER 95 98	米先生
+T2	PER 180 183	米先生
+T3	NORP 361 363	广东
+T4	PER 589 592	米先生
+T5	PER 678 680	敦凤
+T6	PER 709 712	米先生
+T7	PER 994 996	敦凤
+T8	PER 1124 1127	米先生
+T9	PER 1223 1226	米先生
+T10	PER 1239 1241	敦凤
+T11	NORP 1334 1337	华 北
+T12	ART 1355 1359	一代婚潮
+T13	PER 1470 1473	米先生
+#1	AddedAnnotation T3	Added entity
+T15	PER 923 926	米先生
+#3	MissingAnnotation T15	Missing entity
+T16	NORP 202 204	西洋
+#4	MissingAnnotation T16	Missing entity
+T17	OCR_ERROR 331 333	一一
+#5	MissingAnnotation T17	Missing entity
+T18	OCR_ERROR 1045 1047	一一
+#6	MissingAnnotation T18	Missing entity
+#2	AnnotatorNotes T17	——
+#7	AnnotatorNotes T18	——

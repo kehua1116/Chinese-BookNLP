@@ -1,0 +1,34 @@
+T2	OCR_ERROR 112 113	9
+T3	PER 184 189	小团圆媳妇
+T4	OCR_ERROR 249 251	4艮
+T5	OCR_ERROR 383 387	呼兰河俜
+T6	OCR_ERROR 479 480	6
+T7	OCR_ERROR 594 596	，，
+T8	PER 675 680	小团圆媳妇
+T9	PER 1110 1115	小团圆媳妇
+T10	PER 1136 1141	小团圆媳妇
+T11	PER 1179 1184	小团圆媳妇
+T12	PER 1219 1224	小团圆媳妇
+T13	OCR_ERROR 1317 1318	1
+T14	PER 1344 1349	小团圆媳妇
+T15	PER 1438 1443	小团圆媳妇
+#2	AddedAnnotation T2	Added entity
+#3	AddedAnnotation T4	Added entity
+#4	AddedAnnotation T5	Added entity
+#5	AddedAnnotation T6	Added entity
+#6	AddedAnnotation T7	Added entity
+#7	AddedAnnotation T8	Added entity
+#8	AddedAnnotation T10	Added entity
+#9	AddedAnnotation T13	Added entity
+T16	PER 66 68	老胡
+#10	MissingAnnotation T16	Missing entity
+T17	PER 103 105	老胡
+#11	MissingAnnotation T17	Missing entity
+T18	PER 877 882	小团圆媳妇
+#12	MissingAnnotation T18	Missing entity
+#13	AnnotatorNotes T2	，
+#1	AnnotatorNotes T5	DEL
+T1	PER 69 73	团圆媳妇
+#14	AnnotatorNotes T6	。
+#15	AnnotatorNotes T7	”
+#16	AnnotatorNotes T13	。

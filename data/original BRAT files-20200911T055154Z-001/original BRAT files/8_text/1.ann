@@ -1,0 +1,23 @@
+T1	PER 66 68	刘峰
+T2	PER 98 101	雷又锋
+T3	PER 294 296	刘峰
+T4	PER 470 472	雷锋
+T5	PER 511 513	刘峰
+T6	PER 753 756	林丁丁
+T7	PER 773 776	郝淑雯
+T8	PER 777 779	刘峰
+T9	PER 790 794	林丁 丁
+T10	PER 843 845	丁丁
+T11	PER 862 864	小郝
+T12	PER 892 895	郝淑雯
+T13	PER 896 899	郝淑雯
+T14	PER 949 951	小郝
+T15	PER 1098 1100	刘峰
+T17	PER 1312 1314	刘峰
+T18	PER 1401 1404	小穗子
+T16	OCR_ERROR 1139 1142	II：
+T19	GPE 743 745	成都
+#1	MissingAnnotation T19	Missing entity
+T20	GPE 759 761	上海
+#2	MissingAnnotation T20	Missing entity
+#3	AnnotatorNotes T16	严歌苓 芳华

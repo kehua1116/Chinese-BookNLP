@@ -1,0 +1,54 @@
+T1	PER 0 2	都红
+T2	PER 13 15	都红
+T3	PER 18 20	都红
+T4	PER 45 47	都红
+T5	PER 84 86	都红
+T6	PER 125 127	都红
+T7	ART 145 151	第 三创意曲
+T8	PER 171 173	都红
+T9	PER 216 218	都红
+T10	PER 258 260	都红
+T11	PER 297 299	都红
+T12	PER 310 312	都红
+T13	PER 337 339	都红
+T14	PER 428 430	都红
+T15	PER 467 469	都红
+T16	PER 501 503	都红
+T17	PER 536 538	都红
+T18	PER 542 544	都红
+T19	PER 561 563	都红
+T20	PER 569 573	都一 红
+T21	OCR_ERROR 570 571	一
+T22	PER 589 591	都红
+T23	PER 619 621	都红
+T24	OCR_ERROR 637 638	一
+T25	PER 682 684	都红
+T26	PER 715 717	都红
+T27	PER 764 766	都红
+T28	PER 828 830	都红
+T29	PER 873 875	都红
+T30	PER 896 898	都红
+T31	PER 917 919	都红
+T32	PER 924 926	都红
+T33	PER 953 955	都红
+T34	OCR_ERROR 970 979	_NEWLINE_
+T35	PER 1020 1022	都红
+T36	PER 1047 1049	都红
+T37	PER 1084 1086	都红
+T38	OCR_ERROR 1096 1097	一
+T39	OCR_ERROR 1130 1131	一
+T40	PER 1253 1255	都红
+T41	PER 1318 1320	都红
+#1	AddedAnnotation T3	Added entity
+#2	AddedAnnotation T9	Added entity
+#3	AddedAnnotation T21	Added entity
+#4	AddedAnnotation T24	Added entity
+#5	AddedAnnotation T25	Added entity
+#6	AddedAnnotation T38	Added entity
+#7	AddedAnnotation T39	Added entity
+T42	PER 843 845	都红
+#8	MissingAnnotation T42	Missing entity
+#9	AnnotatorNotes T21	——
+#10	AnnotatorNotes T24	——
+#11	AnnotatorNotes T38	——
+#12	AnnotatorNotes T39	——

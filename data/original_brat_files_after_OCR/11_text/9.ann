@@ -1,0 +1,27 @@
+T1	ART 26 29	台北人
+T2	NORP 115 117	中国
+T3	PER 153 156	白先勇
+T4	PER 200 203	白先勇
+T5	PER 281 284	白先勇
+T7	PER 547 550	白先勇
+T8	PER 568 573	黄维梁先生
+T9	ART 587 591	台 北人
+T10	PER 602 605	白先勇
+T11	ART 631 634	台北人
+T12	ART 1003 1006	台北人
+T13	NORP 824 826	中国
+T14	PER 957 960	白先勇
+T15	PER 983 986	白先勇
+T16	PER 1030 1033	白先勇
+T17	NORP 1131 1133	中国
+T18	PER 1322 1325	白先勇
+T19	NORP 1507 1509	中国
+T20	PER 1544 1547	白先勇
+T21	NORP 1569 1572	中 国
+#2	AddedAnnotation T8	Added entity
+T23	NORP 1523 1525	西方
+#4	MissingAnnotation T23	Missing entity
+T24	GPE 305 307	中国
+#5	MissingAnnotation T24	Missing entity
+T25	EVENT 308 310	五四
+#6	MissingAnnotation T25	Missing entity

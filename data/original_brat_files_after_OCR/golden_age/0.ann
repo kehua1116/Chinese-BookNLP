@@ -1,0 +1,26 @@
+T1	OCR_ERROR 20 21	7
+T2	OCR_ERROR 27 28	7
+T3	PER 49 52	陈清扬
+T4	PER 270 273	陈清扬
+T5	PER 278 281	陈清扬
+T6	PER 309 312	陈清扬
+T7	PER 325 328	陈清扬
+T8	PER 348 351	陈清扬
+T9	PER 539 542	陈清扬
+T10	PER 618 621	陈清扬
+T11	PER 772 775	陈清扬
+T12	PER 885 888	陈清扬
+T13	PER 1204 1207	陈清扬
+T14	PER 1335 1338	陈清扬
+T15	PER 1432 1435	陈清扬
+T16	OCR_ERROR 1455 1464	_NEWLINE_
+#1	AddedAnnotation T1	Added entity
+#2	AddedAnnotation T2	Added entity
+#3	AddedAnnotation T8	Added entity
+T17	GPE 44 46	云南
+#4	MissingAnnotation T17	Missing entity
+T18	ORG 550 553	北医大
+#5	MissingAnnotation T18	Missing entity
+#6	AnnotatorNotes T1	/
+#7	AnnotatorNotes T2	/
+#8	AnnotatorNotes T16	DEL

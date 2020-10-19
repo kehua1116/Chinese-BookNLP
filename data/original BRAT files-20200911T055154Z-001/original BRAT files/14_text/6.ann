@@ -1,0 +1,14 @@
+T1	PER 34 36	依依
+T2	PER 131 133	依依
+T6	PER 865 868	黄依依
+T7	PER 841 843	小雨
+T8	PER 881 883	小雨
+T9	PER 914 916	小雨
+T10	PER 944 947	黄依依
+T11	OCR_ERROR 989 998	_NEWLINE_
+T15	PER 1179 1181	老陈
+T19	PER 1431 1433	老陈
+#10	MissingAnnotation T19	Missing entity
+T20	ORG 393 396	701
+#11	MissingAnnotation T20	Missing entity
+#1	AnnotatorNotes T11	DEL

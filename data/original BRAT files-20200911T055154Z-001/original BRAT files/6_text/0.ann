@@ -1,0 +1,23 @@
+T1	ART 1 6	永远的夏娃
+T2	PER 134 136	夏娃
+T3	PER 186 188	夏娃
+T4	NORP 249 251	俄国
+T5	PER 253 260	杜斯妥也夫斯基
+T6	OCR_ERROR 465 466	一
+T7	OCR_ERROR 467 468	一
+T8	PER 538 540	荷西
+T9	PER 618 620	荷西
+T10	PER 749 756	杜斯妥也夫斯基
+T11	OCR_ERROR 759 760	一
+T12	OCR_ERROR 771 772	一
+T13	PER 949 951	荷西
+T14	ART 1355 1360	永远的夏娃
+T15	NORP 83 85	西籍
+#1	AddedAnnotation T6	Added entity
+#2	AddedAnnotation T7	Added entity
+#3	AddedAnnotation T11	Added entity
+#4	AddedAnnotation T12	Added entity
+#5	AnnotatorNotes T6	——
+#6	AnnotatorNotes T7	——
+#7	AnnotatorNotes T11	——
+#8	AnnotatorNotes T12	——

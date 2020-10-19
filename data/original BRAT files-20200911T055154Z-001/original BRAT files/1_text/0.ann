@@ -1,0 +1,53 @@
+T1	PER 0 3	刘怡婷
+T2	PER 133 135	太人
+T3	OCR_ERROR 162 163	6
+T4	OCR_ERROR 200 201	1
+T5	PER 198 200	阿娜
+T6	PER 210 213	刘怡婷
+T7	OCR_ERROR 227 228	6
+T8	PER 300 303	刘妈妈
+T9	PER 319 322	刘怡婷
+T10	PER 290 293	房思琪
+T11	PER 361 363	恰婷
+T12	PER 393 396	房妈妈
+T13	PER 310 313	房妈妈
+T14	PER 497 499	思琪
+T15	PER 521 523	恰婷
+T16	PER 548 551	刘恰婷
+T17	PER 601 603	思琪
+T18	FAC 612 615	高雄港
+T19	FAC 666 669	高雄港
+T20	PER 738 740	思琪
+T21	PER 756 758	怡婷
+T22	PER 783 785	思琪
+T23	PER 814 816	怡婷
+T24	PER 842 844	思琪
+T25	PER 853 855	怡婷
+T26	PER 870 872	思琪
+T27	PER 901 903	恰婷
+T28	PER 911 913	恰婷
+T29	PER 971 974	钱爷爷
+T30	PER 989 991	恰婷
+T31	PER 1016 1019	吴妈妈
+T32	PER 1043 1046	陈阿姨
+T33	PER 1060 1063	李老师
+T34	PER 1174 1177	刘怡婷
+T35	OCR_ERROR 1261 1262	1
+T36	PER 1324 1327	刘怡婷
+T37	PER 1439 1442	吴奶奶
+T38	EVENT 1263 1269	元宵节汤圆会
+T39	PER 372 373	房
+T40	PER 406 407	房
+#1	AddedAnnotation T2	Added entity
+#2	AddedAnnotation T5	Added entity
+#3	AddedAnnotation T38	Added entity
+#4	AddedAnnotation T39	Added entity
+#5	AddedAnnotation T40	Added entity
+T41	NORP 1303 1305	希腊
+#6	MissingAnnotation T41	Missing entity
+T42	GPE 1329 1331	高雄
+#7	MissingAnnotation T42	Missing entity
+#8	AnnotatorNotes T3	。
+#9	AnnotatorNotes T4	DEL
+#10	AnnotatorNotes T7	。
+#11	AnnotatorNotes T35	DEL

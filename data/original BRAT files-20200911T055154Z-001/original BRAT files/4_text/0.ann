@@ -1,0 +1,8 @@
+T1	LOC 89 94	黄 土高原
+T2	LOC 978 981	欧 洲
+T3	LOC 982 984	亚洲
+T4	LOC 985 987	非洲
+T5	LOC 1301 1305	黄土高原
+T6	OCR_ERROR 767 769	一~
+#1	MissingAnnotation T6	Missing entity
+#2	AnnotatorNotes T6	——

@@ -1,0 +1,13 @@
+T1	LOC 64 69	加纳利群岛
+T2	LOC 85 88	多山区
+T3	LOC 89 94	拉 芭玛岛
+T4	PER 163 165	荷西
+T5	PER 208 210	荷西
+T6	LOC 371 375	拉芭玛岛
+T7	GPE 446 449	马德里
+T8	PER 1080 1082	荷西
+T9	GPE 1084 1088	尼日利亚
+#1	AddedAnnotation T1	Added entity
+#2	AddedAnnotation T2	Added entity
+#3	AddedAnnotation T3	Added entity
+#4	AddedAnnotation T6	Added entity

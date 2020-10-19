@@ -1,0 +1,32 @@
+T1	PER 33 34	禹
+T2	PER 171 172	禹
+T3	OCR_ERROR 279 281	一~
+T4	PER 392 396	女隗小姐
+T5	PER 442 443	禹
+T6	GPE 503 506	奇肱国
+T7	OCR_ERROR 603 608	@@@@喝
+T8	GPE 635 637	华夏
+T9	GPE 665 667	华夏
+T10	PER 744 748	莎士比亚
+T11	PER 775 776	禹
+T12	PER 891 893	蚩尤
+T13	OCR_ERROR 1002 1003	4
+T14	PER 1035 1036	禹
+T15	PER 1062 1064	上帝
+T16	PER 1125 1126	禹
+T17	PER 1138 1139	禹
+T18	OCR_ERROR 1255 1256	4
+T19	PER 1312 1315	蚩尤氏
+T20	PER 1329 1330	禹
+T21	OCR_ERROR 1423 1424	4
+T22	OCR_ERROR 1557 1558	^
+#1	AddedAnnotation T3	Added entity
+#2	AddedAnnotation T7	Added entity
+#3	AddedAnnotation T15	Added entity
+#4	AddedAnnotation T19	Added entity
+T24	PER 1173 1174	禹
+#6	MissingAnnotation T24	Missing entity
+#5	AnnotatorNotes T13	DEL
+#7	AnnotatorNotes T18	DEL
+#8	AnnotatorNotes T21	DEL
+#9	AnnotatorNotes T22	DEL

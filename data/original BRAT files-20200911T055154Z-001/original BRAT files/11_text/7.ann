@@ -1,0 +1,81 @@
+T1	PER 1 3	嵚磊
+T2	PER 30 33	吴柱国
+T3	EVENT 103 110	东方 历史学会
+T4	GPE 111 114	旧金山
+T6	NORP 137 139	美国
+T7	ART 154 164	五四运动的 重新估价
+T8	EVENT 177 179	五四
+T9	NORP 205 207	中国
+T10	NORP 256 258	中国
+T11	NORP 273 275	西方
+T12	NORP 265 267	西方
+T13	NORP 283 285	中国
+T14	OCR_ERROR 378 379	^
+T15	OCR_ERROR 394 396	一一
+T16	EVENT 490 492	五四
+T17	EVENT 499 503	文艺复兴
+T18	EVENT 522 526	文艺复兴
+T19	OCR_ERROR 594 595	^
+T20	PER 603 605	柱国
+T21	OCR_ERROR 605 606	^
+T22	PER 631 633	嵚磊
+T23	OCR_ERROR 633 634	^
+T24	PER 636 639	吴柱国
+T25	EVENT 696 698	五四
+T26	EVENT 731 733	五四
+T27	OCR_ERROR 758 759	^
+T28	PER 873 876	唐玄宗
+T29	OCR_ERROR 897 899	^^
+T30	PER 906 908	柱国
+T31	PER 921 924	余教授
+T32	PER 932 935	吴柱国
+T33	OCR_ERROR 1005 1006	^
+T34	PER 1007 1010	吴柱国
+T35	NORP 1046 1048	美国
+T36	ART 952 959	唐代宰相的职权
+T37	ART 962 968	唐宋藩镇制度
+T38	ART 982 990	唐明皇的梨园子弟
+T39	PER 1066 1068	柱国
+T40	PER 1085 1088	余教授
+T41	PER 1095 1098	吴柱国
+T42	PER 1119 1121	嵚磊
+T43	PER 1220 1223	余教授
+T44	NORP 1144 1146	美国
+T45	PER 1234 1237	吴柱国
+T46	PER 1265 1268	吴柱国
+T47	PER 1382 1385	吴柱国
+T48	PER 1395 1398	余教授
+T49	PER 1431 1434	余教授
+T50	PER 1467 1470	余教授
+T51	FAC 1477 1481	台大医院
+#1	AddedAnnotation T3	Added entity
+#3	AddedAnnotation T7	Added entity
+#4	AddedAnnotation T8	Added entity
+#5	AddedAnnotation T20	Added entity
+T52	ORG 128 132	哈佛大学
+#6	MissingAnnotation T52	Missing entity
+T53	GPE 231 233	中国
+#7	MissingAnnotation T53	Missing entity
+T54	PER 392 394	孔子
+#8	MissingAnnotation T54	Missing entity
+T55	NORP 483 486	中 国
+#9	MissingAnnotation T55	Missing entity
+T56	NORP 495 497	中国
+#10	MissingAnnotation T56	Missing entity
+T57	NORP 546 548	中国
+#11	MissingAnnotation T57	Missing entity
+T58	ORG 726 728	加大
+#12	MissingAnnotation T58	Missing entity
+T59	PER 812 813	李
+#13	MissingAnnotation T59	Missing entity
+T5	PER 813 814	唐
+T60	OCR_ERROR 841 842	一
+#2	AnnotatorNotes T15	——
+#14	AnnotatorNotes T14	——
+#15	AnnotatorNotes T23	——
+#16	AnnotatorNotes T19	——
+#17	AnnotatorNotes T21	——
+#18	AnnotatorNotes T27	——
+#19	AnnotatorNotes T60	——
+#20	AnnotatorNotes T29	——
+#21	AnnotatorNotes T33	——

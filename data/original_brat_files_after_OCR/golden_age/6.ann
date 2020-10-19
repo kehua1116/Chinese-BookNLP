@@ -1,0 +1,11 @@
+T1	PER 2 5	X海鹰
+T2	OCR_ERROR 242 243	；
+T3	PER 255 259	弗洛伊德
+#1	AddedAnnotation T2	Added entity
+T5	ART 125 129	玉皇大帝
+#3	MissingAnnotation T5	Missing entity
+T6	GPE 327 329	希腊
+#4	MissingAnnotation T6	Missing entity
+T7	PER 741 744	爱丽丝
+#5	MissingAnnotation T7	Missing entity
+#2	AnnotatorNotes T2	DEL

@@ -1,0 +1,79 @@
+T1	PER 31 34	杨马兵
+T2	PER 55 57	翠翠
+T3	OCR_ERROR 52 53	蛆
+T4	LOC 50 53	碧溪蛆
+T5	PER 63 65	翠翠
+T6	OCR_ERROR 90 99	_NEWLINE_
+T7	PER 156 158	翠翠
+T8	PER 183 185	顺顺
+T9	PER 191 193	顺顺
+T10	PER 241 243	翠翠
+T11	PER 284 286	翠翠
+T12	PER 292 294	翠翠
+T13	PER 309 311	翠翠
+T14	OCR_ERROR 324 325	0
+T15	PER 337 339	顺顺
+T16	PER 352 354	翠翠
+T17	PER 410 412	马兵
+T18	PER 419 422	翠 翠
+T19	PER 428 430	顺顺
+T20	PER 434 436	翠翠
+T21	PER 442 444	翠翠
+T22	OCR_ERROR 476 477	蛆
+T23	LOC 474 477	碧溪蛆
+T24	PER 509 512	老马兵
+T25	PER 543 545	翠翠
+T26	LOC 539 542	碧溪蛆
+T27	OCR_ERROR 541 542	蛆
+T28	OCR_ERROR 553 554	曰
+T29	OCR_ERROR 566 567	蛆
+T30	LOC 564 567	碧溪蛆
+T31	GPE 572 574	茶峒
+T32	OCR_ERROR 581 583	记班
+T33	PER 723 725	马兵
+T34	PER 760 762	翠翠
+T35	PER 819 821	翠翠
+T36	PER 860 862	翠翠
+T37	PER 933 935	翠翠
+T38	GPE 958 961	茶 峒
+T39	NORP 1249 1251	青岛
+T40	LOC 1272 1275	北戴河
+T41	LOC 1287 1290	北戴河
+T42	NORP 1357 1359	青岛
+T43	PER 1399 1401	达士
+T44	PER 1486 1488	达士
+T45	PER 1527 1529	达士
+T46	NORP 1553 1555	青岛
+#1	AddedAnnotation T2	Added entity
+#2	AddedAnnotation T3	Added entity
+#3	AddedAnnotation T5	Added entity
+#4	AddedAnnotation T17	Added entity
+#5	AddedAnnotation T22	Added entity
+#6	AddedAnnotation T24	Added entity
+#7	AddedAnnotation T27	Added entity
+#8	AddedAnnotation T28	Added entity
+#9	AddedAnnotation T29	Added entity
+#10	AddedAnnotation T32	Added entity
+#11	AddedAnnotation T33	Added entity
+#12	AddedAnnotation T39	Added entity
+#13	AddedAnnotation T42	Added entity
+#14	AddedAnnotation T46	Added entity
+T47	GPE 376 378	辰州
+#15	MissingAnnotation T47	Missing entity
+T48	LOC 847 849	西方
+#16	MissingAnnotation T48	Missing entity
+T49	ART 1064 1069	国闻 周报
+#17	MissingAnnotation T49	Missing entity
+T50	PER 1090 1093	沈从文
+#18	MissingAnnotation T50	Missing entity
+T51	GPE 1125 1127	青岛
+#19	MissingAnnotation T51	Missing entity
+T53	NORP 1261 1263	中国
+#21	MissingAnnotation T53	Missing entity
+#20	AnnotatorNotes T3	岨
+#22	AnnotatorNotes T27	岨
+#23	AnnotatorNotes T22	岨
+#24	AnnotatorNotes T28	日
+#25	AnnotatorNotes T29	岨
+#26	AnnotatorNotes T32	圮坍
+#27	AnnotatorNotes T6	DEL

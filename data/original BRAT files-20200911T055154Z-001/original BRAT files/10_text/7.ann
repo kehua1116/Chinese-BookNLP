@@ -1,0 +1,40 @@
+T1	PER 0 4	全少奶奶
+T2	PER 5 7	潆珠
+T3	PER 24 26	潆珠
+T4	PER 30 34	全少奶奶
+T5	PER 42 44	潆芬
+T6	PER 52 54	潆芬
+T7	PER 64 68	全少奶奶
+T8	PER 69 71	潆珠
+T9	PER 124 126	潆珠
+T10	PER 339 341	潆珠
+T11	PER 391 393	潆珠
+T12	PER 559 561	潆芬
+T13	PER 640 642	潆珠
+T14	OCR_ERROR 651 653	一一
+T15	OCR_ERROR 705 707	一~
+T16	PER 749 751	仰彝
+T17	PER 799 800	匡
+T18	OCR_ERROR 969 970	一
+T19	PER 1056 1057	匡
+T20	PER 1094 1098	全少奶奶
+T21	PER 1110 1112	潆珠
+T22	OCR_ERROR 1066 1069	一'泊
+T23	PER 1115 1117	仰彝
+T24	PER 1138 1140	仰葬
+T25	OCR_ERROR 1139 1140	葬
+T26	PER 1200 1205	全少奶 奶
+T27	PER 1398 1400	潆珠
+T28	PER 1428 1430	潆珠
+#1	AddedAnnotation T18	Added entity
+#2	AddedAnnotation T22	Added entity
+#3	AddedAnnotation T25	Added entity
+T29	PRODUCT 310 314	李士德宁
+#4	MissingAnnotation T29	Missing entity
+T30	OCR_ERROR 1050 1052	一一
+#5	MissingAnnotation T30	Missing entity
+#6	AnnotatorNotes T15	——
+#7	AnnotatorNotes T18	——
+#8	AnnotatorNotes T30	——
+#9	AnnotatorNotes T14	——
+#10	AnnotatorNotes T25	彝

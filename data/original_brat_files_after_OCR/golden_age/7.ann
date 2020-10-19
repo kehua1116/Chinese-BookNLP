@@ -1,0 +1,8 @@
+T1	PER 448 450	毡巴
+T2	PER 1172 1176	X 海鹰
+T3	PER 1053 1055	颜色
+T4	PER 1195 1197	颜色
+#1	AddedAnnotation T1	Added entity
+#2	AddedAnnotation T3	Added entity
+#3	AddedAnnotation T4	Added entity
+T6	PER 871 874	毛主席

@@ -1,0 +1,23 @@
+T1	PER 39 42	孙少平
+T2	PER 136 138	少平
+T3	PER 210 213	孙少平
+T5	PER 356 358	少平
+T6	PER 429 431	少平
+T7	OCR_ERROR 451 452	〇
+T8	PER 480 482	少平
+T9	PER 538 542	哈姆雷特
+T10	PER 557 559	少平
+T11	OCR_ERROR 706 707	9
+T12	PER 977 979	少平
+T13	OCR_ERROR 1196 1197	泮
+#2	AddedAnnotation T13	Added entity
+T14	GPE 217 219	黄原
+#3	MissingAnnotation T14	Missing entity
+T15	GPE 714 716	黄原
+#4	MissingAnnotation T15	Missing entity
+T16	PER 1128 1131	孙少平
+#5	MissingAnnotation T16	Missing entity
+T17	LOC 1435 1440	大牙湾煤矿
+#6	MissingAnnotation T17	Missing entity
+#1	AnnotatorNotes T7	。
+#7	AnnotatorNotes T11	。

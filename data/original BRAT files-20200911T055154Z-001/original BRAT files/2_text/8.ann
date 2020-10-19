@@ -1,0 +1,27 @@
+T1	PER 0 3	方玄绰
+T2	PER 25 28	金永生
+T3	ART 346 349	尝试集
+T4	OCR_ERROR 360 361	0
+T5	PER 384 387	方太太
+T6	PER 524 527	方太太
+T7	ART 550 553	尝试集
+T8	PER 561 564	方太太
+T9	ART 962 965	尝试集
+T10	PER 968 971	方太太
+T11	PER 1058 1061	金永生
+T13	PER 1171 1174	方太太
+T14	PER 1200 1203	方玄绰
+T15	ART 1224 1227	尝试集
+T16	PER 1261 1264	陈士成
+T17	EVENT 1266 1268	县考
+T18	PER 1357 1361	陈士 成
+T19	EVENT 1514 1516	乡试
+#2	AddedAnnotation T17	Added entity
+#3	AddedAnnotation T19	Added entity
+T20	FAC 1080 1083	稻香村
+#4	MissingAnnotation T20	Missing entity
+T21	GPE 688 690	上海
+#5	MissingAnnotation T21	Missing entity
+T22	GPE 707 709	上海
+#6	MissingAnnotation T22	Missing entity
+#1	AnnotatorNotes T4	。

@@ -1,0 +1,22 @@
+T1	FAC 11 14	龙王庙
+T3	OCR_ERROR 533 537	呼兰河俜
+T4	OCR_ERROR 574 575	3
+T5	OCR_ERROR 982 995	呼兰河传_NEWLINE_
+T6	OCR_ERROR 1039 1040	0
+T7	OCR_ERROR 1220 1221	0
+#1	AddedAnnotation T1	Added entity
+#3	AddedAnnotation T3	Added entity
+#4	AddedAnnotation T5	Added entity
+T14	LOC 1308 1311	南河沿
+#11	MissingAnnotation T14	Missing entity
+T15	LOC 1315 1318	南河沿
+#12	MissingAnnotation T15	Missing entity
+T16	LOC 1372 1375	南大营
+#13	MissingAnnotation T16	Missing entity
+T17	LOC 1376 1379	南大营
+#14	MissingAnnotation T17	Missing entity
+#15	AnnotatorNotes T3	DEL
+#2	AnnotatorNotes T5	DEL
+#6	AnnotatorNotes T4	DEL
+#7	AnnotatorNotes T6	。
+#8	AnnotatorNotes T7	。

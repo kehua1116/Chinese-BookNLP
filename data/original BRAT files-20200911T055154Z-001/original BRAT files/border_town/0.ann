@@ -1,0 +1,12 @@
+T2	ART 848 851	一枝花
+T4	PER 1050 1053	自宽君
+T5	OCR_ERROR 1275 1276	0
+T6	PER 1407 1410	自宽君
+T7	GPE 1439 1442	东城地
+T8	FAC 1444 1446	夹道
+#2	AddedAnnotation T4	Added entity
+#3	AddedAnnotation T6	Added entity
+#4	AddedAnnotation T7	Added entity
+#5	AddedAnnotation T8	Added entity
+T1	PER 913 916	王先生
+#1	AnnotatorNotes T5	。

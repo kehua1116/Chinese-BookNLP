@@ -1,0 +1,14 @@
+T1	OCR_ERROR 144 148	呼兰河传
+T2	OCR_ERROR 367 372	，第三章，
+T3	GPE 376 379	呼兰河
+T4	OCR_ERROR 613 622	_NEWLINE_
+#1	AddedAnnotation T1	Added entity
+#2	AddedAnnotation T2	Added entity
+T7	PER 214 217	龙王爷
+#5	MissingAnnotation T7	Missing entity
+T8	OCR_ERROR 502 503	—
+#6	MissingAnnotation T8	Missing entity
+#4	AnnotatorNotes T1	DEL
+#7	AnnotatorNotes T2	DEL
+#8	AnnotatorNotes T8	——
+#9	AnnotatorNotes T4	DEL

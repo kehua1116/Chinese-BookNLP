@@ -1,0 +1,67 @@
+T1	PER 0 2	阿宝
+T2	GPE 7 9	香港
+T3	PER 16 20	阿宝爸爸
+T4	PER 36 38	阿宝
+T5	PER 44 48	阿宝爸爸
+T6	PER 55 57	阿宝
+T7	PER 536 540	阿宝爸爸
+T8	OCR_ERROR 519 528	_NEWLINE_
+T9	PER 1244 1248	阿宝爸爸
+T10	PER 1388 1392	阿宝爸爸
+T11	PER 109 113	阿宝爸爸
+T12	PER 202 204	阿宝
+T13	PER 195 197	阿宝
+T14	PER 180 185	阿 宝爸爸
+T15	PER 174 178	阿宝爸爸
+T16	PER 205 207	阿宝
+T17	PER 220 222	雪芝
+T18	PER 251 253	雪芝
+T19	PER 431 435	阿宝爸爸
+T20	PER 437 441	雪芝哥哥
+T21	PER 347 351	阿宝爸爸
+T22	PER 257 261	阿宝爸爸
+T23	PER 272 274	阿宝
+T24	PER 282 286	阿宝爸爸
+T25	PER 363 365	阿宝
+T26	PER 353 355	阿宝
+T27	PER 315 317	阿宝
+T28	PER 321 323	雪芝
+T29	PER 369 373	阿宝爸爸
+T30	PER 382 384	阿宝
+T31	PER 390 394	阿宝爸爸
+T32	PER 418 420	阿宝
+T33	GPE 468 470	安徽
+T34	PER 473 477	阿宝爸爸
+T35	PER 600 604	阿宝爸爸
+T36	PER 606 608	雪芝
+T37	PER 698 702	阿宝爸爸
+T38	PER 792 796	阿宝爸爸
+T39	PER 880 882	雪芝
+T40	PER 882 884	阿宝
+T41	PER 639 643	阿宝爸爸
+T42	GPE 677 679	上海
+T43	PER 742 747	阿 宝爸爸
+T44	GPE 773 776	上 海
+T45	PER 894 898	阿宝爸爸
+T46	PER 989 994	阿宝 爸爸
+T47	PER 1065 1069	阿宝爸爸
+T48	PER 1071 1073	阿宝
+T49	PER 1074 1076	雪芝
+T50	PER 1188 1192	阿宝爸爸
+T51	PER 1198 1200	阿宝
+T53	PER 1317 1321	阿宝爸爸
+T54	FAC 1441 1445	大德浴室
+#1	AddedAnnotation T20	Added entity
+#2	AddedAnnotation T21	Added entity
+#4	AddedAnnotation T54	Added entity
+T55	GPE 106 108	日本
+#5	MissingAnnotation T55	Missing entity
+T58	GPE 618 621	上 海
+#8	MissingAnnotation T58	Missing entity
+T59	NORP 1175 1177	日本
+#9	MissingAnnotation T59	Missing entity
+T60	ORG 1179 1182	国民党
+#10	MissingAnnotation T60	Missing entity
+T61	FAC 1286 1289	安远路
+#11	MissingAnnotation T61	Missing entity
+#12	AnnotatorNotes T8	DEL

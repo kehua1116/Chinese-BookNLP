@@ -1,0 +1,35 @@
+T1	OCR_ERROR 0 1	‘
+T2	LOC 105 107	南洋
+T3	GPE 108 110	中国
+T4	PER 112 116	本多博士
+T6	NORP 126 128	中国
+T7	LANGUAGE 129 132	马来语
+T8	OCR_ERROR 359 360	4
+T10	OCR_ERROR 427 428	0
+T11	OCR_ERROR 454 463	_NEWLINE_
+T13	EVENT 558 561	双十节
+T14	GPE 601 603	北京
+T15	OCR_ERROR 654 655	X
+T16	PER 847 853	阿尔志跋绥夫
+T17	GPE 912 914	中国
+T18	OCR_ERROR 924 927	7 欠
+T19	GPE 920 922	中国
+T20	GPE 933 935	中国
+T21	OCR_ERROR 1066 1068	，’
+T24	PER 1419 1424	九 斤老太
+T25	PER 1431 1435	九斤老太
+T26	PER 1461 1463	六斤
+T27	OCR_ERROR 1547 1548	^
+#1	AddedAnnotation T1	Added entity
+#3	AddedAnnotation T7	Added entity
+#5	AddedAnnotation T15	Added entity
+#6	AddedAnnotation T21	Added entity
+T31	ORG 505 509	师范学堂
+#12	MissingAnnotation T31	Missing entity
+#2	AnnotatorNotes T1	DEL
+#4	AnnotatorNotes T8	‘
+#7	AnnotatorNotes T10	。
+#8	AnnotatorNotes T11	DEL
+#9	AnnotatorNotes T18	永
+#10	AnnotatorNotes T21	”
+#11	AnnotatorNotes T27	——

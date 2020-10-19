@@ -1,0 +1,49 @@
+T1	OCR_ERROR 22 31	_NEWLINE_
+T2	PER 62 65	华大妈
+T3	PER 126 128	小栓
+T4	PER 147 150	华大妈
+T5	PER 238 241	华大妈
+T6	OCR_ERROR 336 338	一~
+T7	PER 350 353	华大妈
+T8	PER 496 499	华大妈
+T9	OCR_ERROR 592 594	:―
+T10	OCR_ERROR 609 610	一
+T11	OCR_ERROR 620 622	一~
+T12	OCR_ERROR 649 650	灘
+T13	PER 657 659	瑜儿
+T14	OCR_ERROR 734 735	^
+T15	PER 735 737	瑜儿
+T16	OCR_ERROR 770 771	一
+T17	OCR_ERROR 786 787	一
+T18	PER 945 948	华大妈
+T19	OCR_ERROR 1070 1071	一
+T20	PER 1176 1178	老拱
+T21	PER 1201 1203	阿五
+T22	GPE 1257 1259	鲁镇
+T24	PER 1334 1338	单四嫂子
+T25	PER 1422 1426	单四嫂子
+T26	OCR_ERROR 1438 1447	_NEWLINE_
+T27	PER 1436 1438	老拱
+T28	PER 1459 1461	老拱
+T29	PER 1469 1471	老拱
+#1	AddedAnnotation T9	Added entity
+#2	AddedAnnotation T10	Added entity
+#3	AddedAnnotation T12	Added entity
+#4	AddedAnnotation T16	Added entity
+#5	AddedAnnotation T17	Added entity
+T32	FAC 1303 1307	咸亨酒店
+#9	MissingAnnotation T32	Missing entity
+T33	OCR_ERROR 1161 1162	一
+#10	MissingAnnotation T33	Missing entity
+#6	AnnotatorNotes T1	DEL
+#7	AnnotatorNotes T6	——
+#8	AnnotatorNotes T9	——
+#11	AnnotatorNotes T10	——
+#12	AnnotatorNotes T11	——
+#13	AnnotatorNotes T12	说道
+#14	AnnotatorNotes T14	——
+#15	AnnotatorNotes T19	——
+#16	AnnotatorNotes T16	——
+#17	AnnotatorNotes T17	——
+#18	AnnotatorNotes T33	——
+#19	AnnotatorNotes T26	DEL

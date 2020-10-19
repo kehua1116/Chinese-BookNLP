@@ -1,0 +1,41 @@
+T1	PER 1 3	颜色
+T2	OCR_ERROR 53 55	~~
+T3	PER 176 179	X海鹰
+T4	PER 197 199	颜色
+T5	PER 457 460	X海鹰
+T6	PER 480 483	X海鹰
+T7	PER 626 628	颜色
+T9	OCR_ERROR 952 954	^^
+T10	PER 979 981	颜色
+T11	PER 993 995	王二
+T12	PER 1080 1082	颜色
+T13	PER 1111 1114	X海鹰
+T14	PER 1148 1150	颜色
+T15	OCR_ERROR 1302 1305	15,
+T16	PER 1305 1308	艾略特
+T19	GPE 1337 1340	意大利
+#1	AddedAnnotation T1	Added entity
+#2	AddedAnnotation T2	Added entity
+#3	AddedAnnotation T4	Added entity
+#4	AddedAnnotation T7	Added entity
+#5	AddedAnnotation T10	Added entity
+#6	AddedAnnotation T12	Added entity
+#7	AddedAnnotation T14	Added entity
+#8	AddedAnnotation T15	Added entity
+T21	LOC 1351 1356	亚平宁半岛
+#12	MissingAnnotation T21	Missing entity
+T22	GPE 1407 1409	罗马
+#13	MissingAnnotation T22	Missing entity
+T23	FAC 1456 1460	庞贝古城
+#14	MissingAnnotation T23	Missing entity
+T24	PER 1483 1485	张三
+#15	MissingAnnotation T24	Missing entity
+T25	PER 1493 1496	李 四
+#16	MissingAnnotation T25	Missing entity
+#9	AnnotatorNotes T2	——
+T17	OCR_ERROR 943 944	織
+#10	AnnotatorNotes T17	天狼
+T8	OCR_ERROR 947 950	至丨腿
+#11	AnnotatorNotes T8	到这里
+#17	AnnotatorNotes T9	逐野兔
+#18	AnnotatorNotes T15	T.S.

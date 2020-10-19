@@ -1,0 +1,11 @@
+T1	OCR_ERROR 105 111	000@ 羈
+T2	OCR_ERROR 410 411	一
+T3	OCR_ERROR 506 507	一
+T5	FAC 1058 1064	勃古斋旧书铺
+T6	ART 1167 1171	公 羊传
+#1	AddedAnnotation T1	Added entity
+#2	AddedAnnotation T2	Added entity
+#3	AddedAnnotation T3	Added entity
+#5	AnnotatorNotes T1	朝花夕拾
+#6	AnnotatorNotes T2	——
+#4	AnnotatorNotes T3	——

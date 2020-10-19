@@ -1,0 +1,39 @@
+T1	PER 0 2	振保
+T2	PER 3 5	烟鹂
+T3	PER 122 124	娇蕊
+T4	PER 261 263	烟鹂
+T5	PER 291 293	振保
+T6	PER 347 349	烟鹂
+T7	PER 360 362	振保
+T8	PER 457 459	烟鹂
+T9	PER 463 466	烟 鹂
+T10	PER 467 469	振保
+T11	PER 533 535	振保
+T12	PER 579 581	振保
+T13	PER 652 654	振保
+T15	PER 749 751	振保
+T14	PER 784 786	振保
+T16	PER 787 789	烟鹂
+T17	PER 814 816	烟鹂
+T18	PER 885 887	振保
+T19	OCR_ERROR 952 961	_NEWLINE_
+T20	PER 1069 1071	烟鹂
+T21	PER 1094 1096	振保
+T22	PER 1372 1374	烟鹂
+T23	LANGUAGE 859 861	国语
+#1	MissingAnnotation T23	Missing entity
+T24	PER 969 971	振保
+#2	MissingAnnotation T24	Missing entity
+T25	GPE 1492 1494	美国
+#3	MissingAnnotation T25	Missing entity
+T26	PER 1511 1513	振保
+#4	MissingAnnotation T26	Missing entity
+T27	OCR_ERROR 1059 1061	一一
+#5	MissingAnnotation T27	Missing entity
+T28	OCR_ERROR 1146 1148	一一
+#6	MissingAnnotation T28	Missing entity
+T29	OCR_ERROR 1405 1407	一一
+#7	MissingAnnotation T29	Missing entity
+#8	AnnotatorNotes T27	——
+#9	AnnotatorNotes T28	——
+#10	AnnotatorNotes T29	——

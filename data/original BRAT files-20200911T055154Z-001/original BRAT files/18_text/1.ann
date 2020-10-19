@@ -1,0 +1,7 @@
+T1	FAC 188 192	东二道街
+T2	FAC 225 229	东二道街
+T3	OCR_ERROR 373 386	呼兰河传_NEWLINE_
+T4	OCR_ERROR 990 999	_NEWLINE_
+#1	AddedAnnotation T3	Added entity
+#3	AnnotatorNotes T3	DEL
+#2	AnnotatorNotes T4	DEL

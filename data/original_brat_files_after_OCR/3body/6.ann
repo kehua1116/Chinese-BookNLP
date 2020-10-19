@@ -1,0 +1,42 @@
+T2	PER 8 10	汪淼
+T6	ART 131 133	三体
+T8	PER 214 216	汪淼
+T9	PER 261 263	汪淼
+T10	PER 289 291	汪淼
+T11	PER 384 386	汪淼
+T12	PER 408 410	汪淼
+T13	PER 450 452	汪淼
+T14	LOC 483 486	银河系
+T15	PER 566 568	汪淼
+T16	PER 678 682	哥 白尼
+T17	PER 726 728	汪淼
+T18	ORG 748 754	三体星际舰队
+T19	PER 942 944	汪淼
+T20	LOC 975 977	地球
+T21	LOC 995 998	银河系
+T22	PER 1075 1077	汪淼
+T23	ORG 1198 1202	三体舰队
+T24	PER 1332 1334	汪淼
+#5	AddedAnnotation T6	Added entity
+#7	AddedAnnotation T20	Added entity
+#8	AddedAnnotation T22	Added entity
+#9	AddedAnnotation T23	Added entity
+T28	FAC 164 170	联合 国大厦
+#13	MissingAnnotation T28	Missing entity
+T29	FAC 171 176	巨摆纪念碑
+#14	MissingAnnotation T29	Missing entity
+T31	ORG 1464 1470	地球三体组织
+#16	MissingAnnotation T31	Missing entity
+T33	OCR_ERROR 53 54	人
+#18	MissingAnnotation T33	Missing entity
+T36	LOC 1154 1158	三体世界
+#21	MissingAnnotation T36	Missing entity
+T37	LOC 1255 1259	三体世界
+#22	MissingAnnotation T37	Missing entity
+T7	LOC 322 327	三体 世界
+T25	ART 1414 1416	三体
+T5	ART 111 113	三体
+T3	ART 55 57	三体
+T1	ART 3 5	三体
+T4	ART 90 92	三体
+#1	AnnotatorNotes T33	入

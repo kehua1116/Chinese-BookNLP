@@ -1,0 +1,44 @@
+T1	PER 7 9	润叶
+T2	PER 60 62	润叶
+T3	PER 98 100	润叶
+T4	PER 126 128	润叶
+T5	PER 203 205	少安
+T6	PER 290 292	少平
+T7	PER 324 326	润叶
+T8	PER 342 344	润叶
+T9	PER 398 400	润叶
+T10	PER 412 414	润叶
+T11	PER 433 435	润叶
+T12	PER 473 475	润叶
+T14	PER 507 509	少安
+T15	PER 577 579	润叶
+T16	LOC 672 675	原西河
+T17	OCR_ERROR 791 792	^
+T18	PER 957 959	少安
+T19	OCR_ERROR 858 859	^
+T20	PER 960 962	润叶
+T22	PER 1053 1055	润叶
+T23	PER 1061 1063	少安
+T24	PER 1073 1075	少安
+T25	PER 1126 1128	润叶
+T26	PER 1149 1151	少安
+T27	PER 1209 1211	少安
+T28	PER 1262 1264	润叶
+T29	LOC 1341 1344	原西河
+T30	PER 1357 1359	润叶
+T31	PER 1384 1387	少 安
+T32	PER 1416 1418	少安
+T33	PER 1452 1454	润叶
+T34	PER 1468 1470	润叶
+T35	PER 480 483	少安哥
+#3	MissingAnnotation T35	Missing entity
+T36	LOC 636 640	东 城门
+#4	MissingAnnotation T36	Missing entity
+T37	LOC 658 661	县河滩
+#5	MissingAnnotation T37	Missing entity
+T38	LOC 968 971	原西河
+#6	MissingAnnotation T38	Missing entity
+T39	PER 1521 1523	少安
+#7	MissingAnnotation T39	Missing entity
+#1	AnnotatorNotes T19	——
+#2	AnnotatorNotes T17	DEL
